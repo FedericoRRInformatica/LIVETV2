@@ -1,12 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-30 14:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-30 14:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Handball] 2026-05-30 16:00 - Handball -  vs  (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Handball] 2026-05-30 16:00 - Handball -  vs  (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[MMA] 2026-05-30 19:30 - MMA -  vs  (Italia 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[UFC] 2026-05-30 19:30 - UFC -  vs  (Italia 1)
