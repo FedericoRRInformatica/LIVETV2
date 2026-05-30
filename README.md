@@ -15,8 +15,5 @@ Benvenuti nel repository LIVETV. Qui troverete diverse liste M3U per canali TV e
 - `streamed.m3u`
 - `vavoo.m3u`
 
-### Eccezioni:
-- `zappruaznao.m3u` `static.m3u` : Queste liste **non** richiedono l'uso di EasyProxy.
-
 ## Risorse
 - **EPG XML**: [epg.xml](epg.xml) (disponibile anche compresso come [epg.xml.gz](epg.xml.gz))
