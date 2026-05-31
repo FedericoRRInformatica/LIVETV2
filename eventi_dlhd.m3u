@@ -1,1 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="friendlyswitzerlandvsjordan" tvg-name="Soccer | Friendly : Switzerland vs Jordan (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Switzerland_vs_Jordan.png" group-title="Eventi Live DLHD",Soccer | Friendly : Switzerland vs Jordan (13:00)
+https://dlhd.pk/watch.php?id=4
+
+#EXTINF:-1 tvg-id="friendlyswitzerlandvsjordan" tvg-name="Soccer | Friendly : Switzerland vs Jordan (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Switzerland_vs_Jordan.png" group-title="Eventi Live DLHD",Soccer | Friendly : Switzerland vs Jordan (13:00)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="friendlygermanyvsfinland" tvg-name="Soccer | Friendly : Germany vs Finland (18:45)" tvg-logo="https://images.template.net/282512/Forklift-Training-Checklist-Template-edit-online.png" group-title="Eventi Live DLHD",Soccer | Friendly : Germany vs Finland (18:45)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="rolandgarros360day8" tvg-name="Tennis | Roland-Garros 360 Day 8 (08:30)" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100073657443477" group-title="Eventi Live DLHD",Tennis | Roland-Garros 360 Day 8 (08:30)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="motogpround7italywarmup" tvg-name="Motorsport | MotoGP : Round 7 | Italy Warm Up (08:00)" tvg-logo="https://i.etsystatic.com/25321482/r/il/173fff/6978693557/il_1080xN.6978693557_4k0r.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 7 | Italy Warm Up (08:00)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round7italyrace" tvg-name="Motorsport | Moto3 : Round 7 | Italy Race (08:00)" tvg-logo="https://img.freepik.com/premium-vector/pizza-vector-illustration-white-background_1018297-1473.jpg?w=360" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 7 | Italy Race (08:00)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round7italyrace" tvg-name="Motorsport | Moto2 : Round 7 | Italy Race (10:00)" tvg-logo="https://i1.sndcdn.com/artworks-000187134605-q23x4v-t500x500.jpg" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 7 | Italy Race (10:00)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround7italyrace" tvg-name="Motorsport | MotoGP : Round 7 | Italy Race (11:15)" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100065965650064" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 7 | Italy Race (11:15)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="seriea2cividalevsbasketrimini" tvg-name="Basketball | Serie A2 : Cividale vs Basket Rimini (15:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cividale_vs_Basket Rimini.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Cividale vs Basket Rimini (15:30)
+https://dlhd.pk/watch.php?id=882
+
+#EXTINF:-1 tvg-id="rolexsailgpchampionshipmubadalanewyorkgrandprixday2" tvg-name="Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)" tvg-logo="https://colorpsychologymeaning.com/wp-content/uploads/2022/11/Shades-of-Black-20-BB.jpg" group-title="Eventi Live DLHD",Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)
+https://dlhd.pk/watch.php?id=460
+
+#EXTINF:-1 tvg-id="giroditaliawomenstage2roncadecaorle156km" tvg-name="Cycling | Giro d'Italia Women | Stage 2 Roncade – Caorle (156km) (10:45)" tvg-logo="https://i.pinimg.com/736x/5d/c0/82/5dc0823b52af263986d5ebecd1503720.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia Women | Stage 2 Roncade – Caorle (156km) (10:45)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="giroditaliamenstage21" tvg-name="Cycling | Giro d'Italia | Men | Stage 21 (13:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 21 (13:45)
+https://dlhd.pk/watch.php?id=851
+
+#EXTINF:-1 tvg-id="giroditaliamenstage21" tvg-name="Cycling | Giro d'Italia | Men | Stage 21 (13:45)" tvg-logo="https://fintechnews.ph/wp-content/uploads/2023/06/Philippine-population-and-gross-domestic-product-GDP-growth-rates-Source-McKinsey-and-Company-May-2023-1024x643.png" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 21 (13:45)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="piazzadisiena2026romegrandprix" tvg-name="Equestrian | Piazza di Siena 2026 - Rome Grand Prix (17:45)" tvg-logo="https://loveincorporated.blob.core.windows.net/contentimages/gallery/fd0b11ae-653f-4aac-a5a6-88b2b3af06f7-1retro-images-of-cities-lead.jpg" group-title="Eventi Live DLHD",Equestrian | Piazza di Siena 2026 - Rome Grand Prix (17:45)
+https://dlhd.pk/watch.php?id=851
+
+#EXTINF:-1 tvg-id="top14clermontvsracing92" tvg-name="Rugby Union | Top 14 : Clermont vs Racing 92 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Clermont_vs_Racing 92.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Clermont vs Racing 92 (19:00)
+https://dlhd.pk/watch.php?id=460
+
+#EXTINF:-1 tvg-id="2026worldtriathlonchampionshipserieswomensracefromalghero" tvg-name="Triathlon | 2026 World Triathlon Championship Series - Women's Race (from Alghero) (08:00)" tvg-logo="https://hentaiporns.net/r/entradas/2023/11/f132fd66b854e03fc8bceab258423709.jpeg" group-title="Eventi Live DLHD",Triathlon | 2026 World Triathlon Championship Series - Women's Race (from Alghero) (08:00)
+https://dlhd.pk/watch.php?id=882
+
