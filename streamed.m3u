@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | Roland Garros French Open 🎾 | 10:00 ()" group-title="Eventi Live STREAMED",Other | Roland Garros French Open 🎾 | 10:00 ()
-https://embedsports.top/embed/echo/roland-garros-french-open-roland-2026/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL2DYNIAYm66QUkCZI7EMEGakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Rugby | Manly Sea Eagles vs South Sydney Rabbitohs | 09:50 (English - Fox League)" group-title="Eventi Live STREAMED",Rugby | Manly Sea Eagles vs South Sydney Rabbitohs | 09:50 (English - Fox League)
-https://embedsports.top/embed/admin/ppv-sea-eagles-vs-rabbitohs/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Afl | Adelaide Crows vs Geelong Cats | 09:30 ()" group-title="Eventi Live STREAMED",Afl | Adelaide Crows vs Geelong Cats | 09:30 ()
-https://embedsports.top/embed/echo/adelaide-crows-vs-geelong-cats-australian-football-3451/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 7 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 7 | 08:00 (English)
-https://embedsports.top/embed/golf/22857/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
+https://embedsports.top/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EChA0QxMTJAgIIISBhyKISljlSQApjq2aYwJdIWkhwBTWMTFFFMD5gBwhtjyP6SXMQeDnCOQWAg6MlGDOlsyWQA.webp" tvg-name="Cricket | England vs. New Zealand | 10:00 (English - Fox Sports 507)" group-title="Eventi Live STREAMED",Cricket | England vs. New Zealand | 10:00 (English - Fox Sports 507)
 https://embedsports.top/embed/admin/ppv-england-vs-new-zealand/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | Roland Garros French Open 🎾 | 10:00 ()" group-title="Eventi Live STREAMED",Other | Roland Garros French Open 🎾 | 10:00 ()
+https://embedsports.top/embed/echo/roland-garros-french-open-roland-2026/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 7 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 7 | 08:00 (English)
+https://embedsports.top/embed/golf/22857/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 6 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 6 | 08:00 (English)
 https://embedsports.top/embed/golf/22856/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 2 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 2 | 08:00 (English)
@@ -35,8 +33,6 @@ https://embedsports.top/embed/admin/admin-sky-sports-tennis/1
 https://embedsports.top/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embedsports.top/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
-https://embedsports.top/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | The Memorial Tournament presented by Workday | PGA Tour | 16:00 ()" group-title="Eventi Live STREAMED",Other | The Memorial Tournament presented by Workday | PGA Tour | 16:00 ()
 https://embedsports.top/embed/echo/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGKEgUIRBBBYxICfJjBZUmhWYgmi6buIhZpRJQk6z2bZO0pgfMAOENseO-SS5itwQ4TkhzK6MlGAOqoEQQA.webp" tvg-name="Football | N.Ireland vs Guinea | 16:00 (English - BBC Two Northern Ireland)" group-title="Eventi Live STREAMED",Football | N.Ireland vs Guinea | 16:00 (English - BBC Two Northern Ireland)
