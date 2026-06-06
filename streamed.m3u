@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
+https://embedstreams.top/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | KLM Open | DP World Tour | 11:00 ()" group-title="Eventi Live STREAMED",Other | KLM Open | DP World Tour | 11:00 ()
+https://embedstreams.top/embed/echo/klm-open-dp-world-tour-atp1000/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGFFSQ9NmBDcQfIzpApcIGAYswCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp" tvg-name="Motor-sports | Monaco Grand Prix Practice 3 | 10:30 (English)" group-title="Eventi Live STREAMED",Motor-sports | Monaco Grand Prix Practice 3 | 10:30 (English)
+https://embedstreams.top/embed/golf/22878/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Moto2 2026 - Grand Prix of Hungary | 10:57 ()" group-title="Eventi Live STREAMED",Motor-sports | Moto2 2026 - Grand Prix of Hungary | 10:57 ()
+https://embedstreams.top/embed/echo/motogp-grand-prix-of-hungary-game-122273/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMClgSICCDggQ3EHxO59IFOas4YBYEgp9hs+im1sNbbeXpZZGky0YB70ohBAA.webp" tvg-name="Afl | West Coast Eagles vs Port Adelaide Football Club | 10:15 ()" group-title="Eventi Live STREAMED",Afl | West Coast Eagles vs Port Adelaide Football Club | 10:15 ()
+https://embedstreams.top/embed/echo/west-coast-eagles-vs-port-adelaide-power-australian-football-3455/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland Garros French Open 🎾 | 09:00 ()" group-title="Eventi Live STREAMED",Tennis | Roland Garros French Open 🎾 | 09:00 ()
 https://embedstreams.top/embed/echo/roland-garros-french-open-roland-2026/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 14 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 14 | 08:00 (English)
 https://embedstreams.top/embed/golf/22743/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNih64QKMCRDcQfEFJBn9hxDB0gSBYEgp9hs+rpWa2e8vSyzNTLRgemKiEEA.webp" tvg-name="Rugby | Brisbane Broncos vs Gold Coast Titans | 09:30 ()" group-title="Eventi Live STREAMED",Rugby | Brisbane Broncos vs Gold Coast Titans | 09:30 ()
-https://embedstreams.top/embed/echo/brisbane-broncos-vs-gold-coast-titans-game-576373/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court Simonne Mathieu | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court Simonne Mathieu | 08:00 (English)
 https://embedstreams.top/embed/golf/22742/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court Philippe Chatrier | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court Philippe Chatrier | 08:00 (English)
@@ -23,18 +31,6 @@ https://embedstreams.top/embed/admin/admin-sky-sports-tennis/1
 https://embedstreams.top/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embedstreams.top/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMClgSICCDggQ3EHxO59IFOas4YBYEgp9hs+im1sNbbeXpZZGky0YB70ohBAA.webp" tvg-name="Afl | West Coast Eagles vs Port Adelaide Football Club | 10:15 ()" group-title="Eventi Live STREAMED",Afl | West Coast Eagles vs Port Adelaide Football Club | 10:15 ()
-https://embedstreams.top/embed/echo/west-coast-eagles-vs-port-adelaide-power-australian-football-3455/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | 3rd Practice | Circuit de Monaco | | 10:30 ()" group-title="Eventi Live STREAMED",Motor-sports | 3rd Practice | Circuit de Monaco | | 10:30 ()
-https://embedstreams.top/embed/echo/3rd-practice-circuit-de-monaco-formula-1-2549/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGFFSQ9NmBDcQfIzpApcIGAYswCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp" tvg-name="Motor-sports | Monaco Grand Prix Practice 3 | 10:30 (English)" group-title="Eventi Live STREAMED",Motor-sports | Monaco Grand Prix Practice 3 | 10:30 (English)
-https://embedstreams.top/embed/golf/22878/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | KLM Open | DP World Tour | 11:00 ()" group-title="Eventi Live STREAMED",Other | KLM Open | DP World Tour | 11:00 ()
-https://embedstreams.top/embed/echo/klm-open-dp-world-tour-atp1000/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Moto2 2026 - Grand Prix of Hungary | 10:57 ()" group-title="Eventi Live STREAMED",Motor-sports | Moto2 2026 - Grand Prix of Hungary | 10:57 ()
-https://embedstreams.top/embed/echo/motogp-grand-prix-of-hungary-game-122273/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
-https://embedstreams.top/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBg2CEPDBIQ3EHxAkQUkFZS4NIGxKZIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" tvg-name="Golf | The Memorial Tournament presented by Workday Round 3 | 12:50 ()" group-title="Eventi Live STREAMED",Golf | The Memorial Tournament presented by Workday Round 3 | 12:50 ()
 https://embedstreams.top/embed/echo/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGXA54YbmCQhuIPsZAQQUkChCIYFiwWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" tvg-name="Football | Belgium vs Tunisia | 13:00 (English)" group-title="Eventi Live STREAMED",Football | Belgium vs Tunisia | 13:00 (English)
@@ -53,6 +49,10 @@ https://embedstreams.top/embed/golf/22970/1
 https://embedstreams.top/embed/echo/wakefield-trinity-vs-hull-k-r-game-182283/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | PDC World Series of Darts (Nordic Darts Masters)  🎯 | 17:00 ()" group-title="Eventi Live STREAMED",Other | PDC World Series of Darts (Nordic Darts Masters)  🎯 | 17:00 ()
 https://embedstreams.top/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Chris Billam-Smith vs Ryan Rozicki | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Chris Billam-Smith vs Ryan Rozicki | 17:00 (English)
+https://embedstreams.top/embed/delta/live-event_chris-billam-smith-vs-ryan-rozicki-live-stream/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Dalton Smith vs Alberto Puello | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Dalton Smith vs Alberto Puello | 17:00 (English)
+https://embedstreams.top/embed/delta/live-event_dalton-smith-vs-alberto-puello-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgKRg+Ieom4gpIEiAMoQ5kLpA6LTLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Basketball | Minnesota Lynx vs Seattle Storm | 17:00 (English)" group-title="Eventi Live STREAMED",Basketball | Minnesota Lynx vs Seattle Storm | 17:00 (English)
 https://embedstreams.top/embed/golf/22908/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAoQcFAjohuGkFJAkQFiziuGCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp" tvg-name="Rugby | Catalans Dragons vs Wigan Warriors | 17:30 ()" group-title="Eventi Live STREAMED",Rugby | Catalans Dragons vs Wigan Warriors | 17:30 ()
@@ -61,6 +61,8 @@ https://embedstreams.top/embed/echo/catalans-dragons-vs-wigan-warriors-game-3732
 https://embedstreams.top/embed/golf/22915/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCD6xyAkiG6bDEEFJAoQiGCYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Football | Portugal vs Chile | 17:45 ()" group-title="Eventi Live STREAMED",Football | Portugal vs Chile | 17:45 ()
 https://embedstreams.top/embed/echo/portugal-vs-chile-football-1528286/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Ricardo Rafael Sandoval vs Galal Yafai | 18:00 (English)" group-title="Eventi Live STREAMED",Fight | Ricardo Rafael Sandoval vs Galal Yafai | 18:00 (English)
+https://embedstreams.top/embed/delta/live-event_ricardo-rafael-sandoval-vs-galal-yafai-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmRRMwKEL1h6QWIyF0lDIENVMhF+YEgpYRcxijCqtHD+UbU5Wvb0YB7iYhBAA.webp" tvg-name="Cricket | Durham Jets vs Northants Steelbacks | 18:00 ()" group-title="Eventi Live STREAMED",Cricket | Durham Jets vs Northants Steelbacks | 18:00 ()
 https://embedstreams.top/embed/echo/mens-vitality-blast-durham-vs-northants-cricket-hundred-1/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFQSIXbzB6QWI7pAxNIaSAimsLJBTvtR4lGFUoe78o2pzP+KzAYO7iWkA.webp" tvg-name="Fight | Zuffa Boxing 7 Billam-Smith vs Rozicki | 18:00 (English)" group-title="Eventi Live STREAMED",Fight | Zuffa Boxing 7 Billam-Smith vs Rozicki | 18:00 (English)
@@ -75,7 +77,7 @@ https://embedstreams.top/embed/golf/22918/1
 https://embedstreams.top/embed/delta/live_int-friendly-games_usa-germany-live-streaming-1337594067/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Castellón vs Almeria | 19:00 ()" group-title="Eventi Live STREAMED",Football | Castellón vs Almeria | 19:00 ()
 https://embedstreams.top/embed/echo/castellon-vs-almeria-football-1548052/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Australia vs Switzerland | 19:00 (English)" group-title="Eventi Live STREAMED",Football | Australia vs Switzerland | 19:00 (English)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Switzerland vs Australia | 19:00 (English)" group-title="Eventi Live STREAMED",Football | Switzerland vs Australia | 19:00 (English)
 https://embedstreams.top/embed/delta/live_int-friendly-games_switzerland-australia-live-streaming-1337595066/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Basketball | Las Vegas Aces vs Golden State Valkyries | 19:00 (English)" group-title="Eventi Live STREAMED",Basketball | Las Vegas Aces vs Golden State Valkyries | 19:00 (English)
 https://embedstreams.top/embed/golf/22909/1
@@ -99,10 +101,12 @@ https://embedstreams.top/embed/golf/22922/1
 https://embedstreams.top/embed/golf/22921/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv3hhZ0sKpC8QWECZghpJkCXMhqtlkgpYRcxij0cUPPeUbU5XviswGAejGIQQA.webp" tvg-name="Fight | UFC Fight Night 278 Muhammad vs Bonfim | 21:00 (English)" group-title="Eventi Live STREAMED",Fight | UFC Fight Night 278 Muhammad vs Bonfim | 21:00 (English)
 https://embedstreams.top/embed/golf/22968/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMDCbQsECRDcQUvQZAozISxBDWFTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp" tvg-name="Basketball | Atlanta Dream vs Washington Mystics | 22:00 (English)" group-title="Eventi Live STREAMED",Basketball | Atlanta Dream vs Washington Mystics | 22:00 (English)
-https://embedstreams.top/embed/golf/22910/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQKEL25gpukH2MgIIQzsQxTMAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" tvg-name="Football | Brazil vs Egypt | 22:00 (English)" group-title="Eventi Live STREAMED",Football | Brazil vs Egypt | 22:00 (English)
 https://embedstreams.top/embed/golf/22947/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMDCbQsECRDcQUvQZAozISxBDWFTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp" tvg-name="Basketball | Atlanta Dream vs Washington Mystics | 22:00 (English)" group-title="Eventi Live STREAMED",Basketball | Atlanta Dream vs Washington Mystics | 22:00 (English)
+https://embedstreams.top/embed/golf/22910/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Venezuela vs Türkiye | 23:00 (English)" group-title="Eventi Live STREAMED",Football | Venezuela vs Türkiye | 23:00 (English)
+https://embedstreams.top/embed/golf/22948/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvlIgyvbXxC6sIYzBDUQKC9uMhFmpBSwi5jFGFUoe78o2pzPmvRg7uJiEEA.webp" tvg-name="Baseball | New York Yankees vs Boston Red Sox | 23:35 (English)" group-title="Eventi Live STREAMED",Baseball | New York Yankees vs Boston Red Sox | 23:35 (English)
 https://embedstreams.top/embed/golf/22925/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKigYgQPemBC8QWbSBghqIFJZAkTk-MCQUsIuYxRhVmjp-KNqcpoOep7iYhBAA.webp" tvg-name="Baseball | Texas Rangers vs Cleveland Guardians | 23:35 (English)" group-title="Eventi Live STREAMED",Baseball | Texas Rangers vs Cleveland Guardians | 23:35 (English)
@@ -153,10 +157,10 @@ https://embedstreams.top/embed/golf/22965/1
 https://embedstreams.top/embed/golf/22966/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Basketball | Los Angeles Sparks vs Portland Fire | 23:00 (English)" group-title="Eventi Live STREAMED",Basketball | Los Angeles Sparks vs Portland Fire | 23:00 (English)
 https://embedstreams.top/embed/golf/22952/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | Chicago Cubs - San Francisco Giants | 00:30 (English)" group-title="Eventi Live STREAMED",Baseball | Chicago Cubs - San Francisco Giants | 00:30 (English)
-https://embedstreams.top/embed/golf/22967/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()" group-title="Eventi Live STREAMED",Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()
 https://embedstreams.top/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | Chicago Cubs - San Francisco Giants | 00:30 (English)" group-title="Eventi Live STREAMED",Baseball | Chicago Cubs - San Francisco Giants | 00:30 (English)
+https://embedstreams.top/embed/golf/22967/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Mexico - South Africa | 21:00 (English)" group-title="Eventi Live STREAMED",Football | Mexico - South Africa | 21:00 (English)
 https://embedstreams.top/embed/golf/20959/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | South Korea - Czechia | 04:00 (English)" group-title="Eventi Live STREAMED",Football | South Korea - Czechia | 04:00 (English)
