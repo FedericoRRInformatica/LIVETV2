@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="friendlydenmarkvsukraine" tvg-name="Soccer | Friendly : Denmark vs Ukraine (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Denmark_vs_Ukraine.png" group-title="Eventi Live DLHD",Soccer | Friendly : Denmark vs Ukraine (16:30)
-https://dlhd.pk/watch.php?id=870
-
 #EXTINF:-1 tvg-id="friendlycroatiavsslovenia" tvg-name="Soccer | Friendly : Croatia vs Slovenia (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Slovenia.png" group-title="Eventi Live DLHD",Soccer | Friendly : Croatia vs Slovenia (18:45)
 https://dlhd.pk/watch.php?id=870
 
@@ -17,12 +14,6 @@ https://dlhd.pk/watch.php?id=850
 #EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Greece_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
 https://dlhd.pk/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="mlbatlantabravesvspittsburghpirates" tvg-name="Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Atlanta Braves_vs_Pittsburgh Pirates.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)
-https://dlhd.pk/watch.php?id=462
-
 #EXTINF:-1 tvg-id="seriea2veronavsrimini" tvg-name="Basketball | Serie A2 : Verona vs Rimini (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Verona_vs_Rimini.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Verona vs Rimini (18:45)
 https://dlhd.pk/watch.php?id=882
-
-#EXTINF:-1 tvg-id="jumpingcannesglobalchampionstour" tvg-name="Equestrian | Jumping | Cannes Global Champions Tour (18:20)" tvg-logo="https://civilwartalk.com/attachments/3c17020v-jpg.276233/" group-title="Eventi Live DLHD",Equestrian | Jumping | Cannes Global Champions Tour (18:20)
-https://dlhd.pk/watch.php?id=878
 

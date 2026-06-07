@@ -1,5 +1,87 @@
 {
     "Sunday 07th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:45",
+                "event": "GNCC 2026 Watkins Glen (Round 8) \u2013 Pro Bike Race",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Game Changer Wrestling GCW : Cage of Survival 5",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "USAC Silver Crown National Championship WWT Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Appalachian Mountain Late Model Speedweek Potomac Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Huset\u2019s Late Model Street Stocks at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Weekly Racing at Slinger Super Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "UWC Mexico 58: Leyva vs. Adriel (Ultimate Warrior Challenge Mexico)",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "World of Outlaws NOS Energy Drink Sprint Car Series Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "15:00",
