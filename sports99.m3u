@@ -9,8 +9,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=rai+1&code=it&user=streamsport
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-06-07 18:45 - Basketball -  vs  (Rai Sport)
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[MLB] 2026-06-07 17:35 - MLB - Atlanta Braves vs Pittsburgh Pirates (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
