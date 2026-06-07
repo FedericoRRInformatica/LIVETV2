@@ -72,6 +72,26 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "American Flat Track at Nashville Short Track",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Jim Shampine Memorial at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "Land of Legends Late Models",
                 "channels": [
@@ -83,11 +103,65 @@
             },
             {
                 "time": "22:00",
+                "event": "NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
                 "event": "2026 Weekly Racing at Fonda Speedway",
                 "channels": [
                     {
                         "channel_name": "Floracing",
                         "channel_id": "220"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Appalachian Mountain LM Speedweek at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "22:10",
+                "event": "NASCAR Whelen Modified Tour at Oxford Plains Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Dirt Late Model Dream at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5026"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "NASCAR Weekly Racing at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -128,6 +202,20 @@
                     {
                         "channel_name": "Flotv",
                         "channel_id": "225"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "00:10",
+                "event": "High Limit Racing at Dacotah Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5027"
                     }
                 ]
             },
@@ -4042,6 +4130,10 @@
                     {
                         "channel_name": "Peacock",
                         "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -4196,10 +4288,6 @@
                     {
                         "channel_name": "Event PPV I",
                         "channel_id": "55"
-                    },
-                    {
-                        "channel_name": "Event PPV II",
-                        "channel_id": "5000"
                     }
                 ]
             },
@@ -5764,7 +5852,7 @@
         ],
         "Sailing / Boating": [
             {
-                "time": "19:12",
+                "time": "23:29",
                 "event": "WSL Tour World Surf League: 2026 WSL Championship Tour: Surf City El Salvador Pro",
                 "channels": [
                     {
