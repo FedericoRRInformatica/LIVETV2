@@ -2,16 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
-https://dlhd.pk/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
-https://dlhd.pk/watch.php?id=851
-
-#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="friendlydenmarkvsukraine" tvg-name="Soccer | Friendly : Denmark vs Ukraine (16:30)" tvg-logo="https://i1.sndcdn.com/avatars-000097238403-52rjy5-t500x500.jpg" group-title="Eventi Live DLHD",Soccer | Friendly : Denmark vs Ukraine (16:30)
+#EXTINF:-1 tvg-id="friendlydenmarkvsukraine" tvg-name="Soccer | Friendly : Denmark vs Ukraine (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Denmark_vs_Ukraine.png" group-title="Eventi Live DLHD",Soccer | Friendly : Denmark vs Ukraine (16:30)
 https://dlhd.pk/watch.php?id=870
 
 #EXTINF:-1 tvg-id="friendlycroatiavsslovenia" tvg-name="Soccer | Friendly : Croatia vs Slovenia (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Slovenia.png" group-title="Eventi Live DLHD",Soccer | Friendly : Croatia vs Slovenia (18:45)
@@ -20,14 +11,11 @@ https://dlhd.pk/watch.php?id=870
 #EXTINF:-1 tvg-id="friendlycroatiavsslovenia" tvg-name="Soccer | Friendly : Croatia vs Slovenia (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Slovenia.png" group-title="Eventi Live DLHD",Soccer | Friendly : Croatia vs Slovenia (18:45)
 https://dlhd.pk/watch.php?id=461
 
-#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
+#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Greece_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
 https://dlhd.pk/watch.php?id=850
 
-#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
+#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Greece_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
 https://dlhd.pk/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="iaafdiamondleaguestockholmsweden" tvg-name="Athletics | IAAF Diamond League - Stockholm, Sweden (16:00)" tvg-logo="https://cdn1.vente-unique.com/thumbnails/product/3774/3774931/gallery_slider/xl/coussin-exterieur_250114024308_44216356.png" group-title="Eventi Live DLHD",Athletics | IAAF Diamond League - Stockholm, Sweden (16:00)
-https://dlhd.pk/watch.php?id=462
 
 #EXTINF:-1 tvg-id="mlbatlantabravesvspittsburghpirates" tvg-name="Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Atlanta Braves_vs_Pittsburgh Pirates.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)
 https://dlhd.pk/watch.php?id=462
@@ -35,9 +23,6 @@ https://dlhd.pk/watch.php?id=462
 #EXTINF:-1 tvg-id="seriea2veronavsrimini" tvg-name="Basketball | Serie A2 : Verona vs Rimini (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Verona_vs_Rimini.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Verona vs Rimini (18:45)
 https://dlhd.pk/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldseriespraguemensandwomensleadfinal" tvg-name="Climbing | World Series | Prague Men's and Women's Lead | Final (16:00)" tvg-logo="http://www.supremesportschicago.com/images/green-blue-tennis-court-bldg-TENNIS-CTS.jpg" group-title="Eventi Live DLHD",Climbing | World Series | Prague Men's and Women's Lead | Final (16:00)
-https://dlhd.pk/watch.php?id=879
-
-#EXTINF:-1 tvg-id="jumpingcannesglobalchampionstour" tvg-name="Equestrian | Jumping | Cannes Global Champions Tour (18:20)" tvg-logo="https://static.wikia.nocookie.net/starwars/images/e/ee/PaniniMagazineCover16.jpg/revision/latest?cb=20250307200102" group-title="Eventi Live DLHD",Equestrian | Jumping | Cannes Global Champions Tour (18:20)
+#EXTINF:-1 tvg-id="jumpingcannesglobalchampionstour" tvg-name="Equestrian | Jumping | Cannes Global Champions Tour (18:20)" tvg-logo="https://civilwartalk.com/attachments/3c17020v-jpg.276233/" group-title="Eventi Live DLHD",Equestrian | Jumping | Cannes Global Champions Tour (18:20)
 https://dlhd.pk/watch.php?id=878
 
