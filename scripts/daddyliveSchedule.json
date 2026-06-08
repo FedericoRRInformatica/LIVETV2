@@ -104,6 +104,26 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "ICC Women\u2019s T20 World Cup (Women\u2019s T20 Cricket) - 12 June \u2013 5 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "CricketGo",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "FIFA World Cup 2026 (Men\u2019s Football) | Matches, June 11 \u2013 July 19 2026",
+                "channels": [
+                    {
+                        "channel_name": "FIFA World Cup",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "US Open Golf Championship (Golf Major), June 11\u201314, 2026",
                 "channels": [
@@ -136,6 +156,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3004"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
+                "channels": [
+                    {
+                        "channel_name": "CBS",
+                        "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NBA Draft (Basketball) | First Round Selection & Draft Coverage, 23\u201324 June 2026",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
                     }
                 ]
             },
@@ -680,6 +724,10 @@
                     {
                         "channel_name": "TV2 Sport Norway",
                         "channel_id": "812"
+                    },
+                    {
+                        "channel_name": "TV2 Sport Norway",
+                        "channel_id": "3069"
                     }
                 ]
             },
@@ -700,6 +748,10 @@
                     {
                         "channel_name": "RAI 2 IT",
                         "channel_id": "851"
+                    },
+                    {
+                        "channel_name": "RAI 2 IT",
+                        "channel_id": "3047"
                     }
                 ]
             },
@@ -794,6 +846,22 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "NPO 3 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TV2 Sport 2 Norway",
+                        "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Viaplay Sport SE",
+                        "channel_id": "3080"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
                     }
                 ]
             },
@@ -904,6 +972,22 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "MTV Urheilu 1 Finland",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "TF1 France",
+                        "channel_id": "3050"
+                    },
+                    {
+                        "channel_name": "V Sport Premium SE",
+                        "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "3082"
                     }
                 ]
             },
@@ -2670,6 +2754,10 @@
                     {
                         "channel_name": "TSN2",
                         "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5037"
                     }
                 ]
             },
@@ -2688,6 +2776,10 @@
                     {
                         "channel_name": "RDS 2 CA",
                         "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5038"
                     }
                 ]
             },
@@ -2710,6 +2802,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5039"
                     }
                 ]
             },
@@ -2736,6 +2832,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5042"
                     }
                 ]
             },
@@ -2750,6 +2850,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5043"
                     }
                 ]
             },
@@ -2760,6 +2864,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5044"
                     }
                 ]
             },
@@ -2778,6 +2886,10 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5045"
                     }
                 ]
             },
@@ -2792,6 +2904,10 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5046"
                     }
                 ]
             }
@@ -2948,6 +3064,10 @@
                     {
                         "channel_name": "NBCS Boston USA",
                         "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             },
@@ -2970,6 +3090,10 @@
                     {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5041"
                     }
                 ]
             },
@@ -2992,6 +3116,10 @@
                     {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5047"
                     }
                 ]
             }
@@ -3296,6 +3424,10 @@
                     {
                         "channel_name": "Sky Sport 1 NZ",
                         "channel_id": "588"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
                     }
                 ]
             },
@@ -3862,6 +3994,30 @@
                 ]
             }
         ],
+        "WWE (RAW)": [
+            {
+                "time": "00:00",
+                "event": "WWE : WWE Monday Night Raw",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 4",
+                        "channel_id": "419"
+                    },
+                    {
+                        "channel_name": "SuperSport Grandstand",
+                        "channel_id": "412"
+                    },
+                    {
+                        "channel_name": "Supersports Action",
+                        "channel_id": "420"
+                    }
+                ]
+            }
+        ],
         "Aussie rules (AFL)": [
             {
                 "time": "05:15",
@@ -3878,6 +4034,10 @@
                     {
                         "channel_name": "Sky Sport 4 NZ",
                         "channel_id": "591"
+                    },
+                    {
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "3082"
                     }
                 ]
             }
@@ -3946,6 +4106,10 @@
                         "channel_id": "838"
                     },
                     {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -3980,6 +4144,18 @@
                     {
                         "channel_name": "beIN SPORTS MENA English 2",
                         "channel_id": "90"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "3002"
                     }
                 ]
             }
