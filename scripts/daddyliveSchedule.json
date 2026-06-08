@@ -140,20 +140,6 @@
                 ]
             },
             {
-                "time": "22:00",
-                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
-                "channels": [
-                    {
-                        "channel_name": "CBS",
-                        "channel_id": "52"
-                    },
-                    {
-                        "channel_name": "Paramount+",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
                 "time": "03:30",
                 "event": "Saturday Night Live (SNL)",
                 "channels": [
@@ -345,7 +331,7 @@
         "TV Shows": [
             {
                 "time": "19:00",
-                "event": "2026 Incredible Dog Challenge \u2022 New",
+                "event": "The Kelly Clarkson Show S7, E152",
                 "channels": [
                     {
                         "channel_name": "NBCNY USA",
@@ -354,42 +340,78 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "FanDuel Racing Live",
+                "time": "19:00",
+                "event": "General Hospital S63, E186",
                 "channels": [
                     {
-                        "channel_name": "Altitude Sports",
-                        "channel_id": "923"
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Golf's Longest Day Live",
+                "channels": [
+                    {
+                        "channel_name": "GOLF Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "America Says Pool Party Pals vs The Pires Family",
+                "channels": [
+                    {
+                        "channel_name": "Game Show Network",
+                        "channel_id": "319"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Jeopardy! S42, E196",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
                     }
                 ]
             },
             {
                 "time": "00:00",
-                "event": "The 79th Annual Tony Awards Live",
+                "event": "Sullivan's Crossing S4, E8",
                 "channels": [
                     {
-                        "channel_name": "CBSNY USA",
-                        "channel_id": "767"
-                    },
-                    {
-                        "channel_name": "CBS USA",
-                        "channel_id": "52"
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
                     }
                 ]
             },
             {
                 "time": "00:00",
-                "event": "Renovation Island: The Adventure Continues S1, E1 \u2022 Premiere",
+                "event": "La Casa de los Famosos",
                 "channels": [
                     {
-                        "channel_name": "HGTV USA",
-                        "channel_id": "382"
+                        "channel_name": "Telemundo USA",
+                        "channel_id": "131"
                     }
                 ]
             },
             {
                 "time": "00:00",
-                "event": "The Real Housewives of Atlanta S17, E10",
+                "event": "Garra vs Veneno: Guerreros Mundiales S3, E6",
+                "channels": [
+                    {
+                        "channel_name": "UniMas USA",
+                        "channel_id": "133"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Below Deck Mediterranean S11, E1",
                 "channels": [
                     {
                         "channel_name": "Bravo USA",
@@ -399,79 +421,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Naked and Afraid: Global Showdown S1, E4",
-                "channels": [
-                    {
-                        "channel_name": "Discovery USA",
-                        "channel_id": "313"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "County Rescue S3, E6",
-                "channels": [
-                    {
-                        "channel_name": "Great American Family Channel",
-                        "channel_id": "699"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "This Land S1, E1 \u2022 Premiere",
-                "channels": [
-                    {
-                        "channel_name": "CNN USA",
-                        "channel_id": "345"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "100 Cooks S1, E1 \u2022 Premiere",
-                "channels": [
-                    {
-                        "channel_name": "The Food Network",
-                        "channel_id": "384"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "The Real Housewives of Rhode Island S1, E11",
-                "channels": [
-                    {
-                        "channel_name": "Bravo USA",
-                        "channel_id": "307"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "The Vampire Lestat S1, E1 \u2022 Premiere",
-                "channels": [
-                    {
-                        "channel_name": "AMC USA",
-                        "channel_id": "303"
-                    },
-                    {
-                        "channel_name": "BBC America",
-                        "channel_id": "305"
-                    },
-                    {
-                        "channel_name": "Sundance TV",
-                        "channel_id": "658"
-                    },
-                    {
-                        "channel_name": "IFC TV USA",
-                        "channel_id": "656"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "Hazardous History With Henry Winkler S2, E7",
+                "event": "World War II With Tom Hanks S1, E6",
                 "channels": [
                     {
                         "channel_name": "History TV",
@@ -480,38 +430,108 @@
                 ]
             },
             {
-                "time": "01:00",
-                "event": "Best of the World With Antoni Porowski S1, E1",
+                "time": "00:00",
+                "event": "90 Day: The Last Resort S3, E2",
                 "channels": [
                     {
-                        "channel_name": "National Geographic (NGC)",
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Love & Hip Hop Miami S7, E21",
+                "channels": [
+                    {
+                        "channel_name": "VH1 USA",
+                        "channel_id": "344"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "American Ninja Warrior S18, E1",
+                "channels": [
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Maine Cabin Masters S13, E3",
+                "channels": [
+                    {
+                        "channel_name": "Magnolia Network",
+                        "channel_id": "299"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Dr. Pimple Popper: Breaking Out S2, E8",
+                "channels": [
+                    {
+                        "channel_name": "Lifetime Network",
+                        "channel_id": "326"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Rachael Ray's Meals in Minutes S5, E5",
+                "channels": [
+                    {
+                        "channel_name": "FYI USA",
+                        "channel_id": "665"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Construction Fails S3, E3",
+                "channels": [
+                    {
+                        "channel_name": "National Geographic",
                         "channel_id": "328"
                     }
                 ]
             },
             {
                 "time": "01:00",
-                "event": "Paranormal Caught on Camera S11, E10",
+                "event": "Body Cam S8, E3",
                 "channels": [
                     {
-                        "channel_name": "Travel Channel USA",
-                        "channel_id": "340"
+                        "channel_name": "Discovery Channel",
+                        "channel_id": "313"
                     }
                 ]
             },
             {
                 "time": "01:00",
-                "event": "The Way Home S4, E8",
+                "event": "Deadly Influence: The Social Media Murders S2, E2",
                 "channels": [
                     {
-                        "channel_name": "The Hallmark Channel",
-                        "channel_id": "320"
+                        "channel_name": "ID USA",
+                        "channel_id": "324"
                     }
                 ]
             },
             {
                 "time": "01:00",
-                "event": "Earth, Wind & Fire - To Be Celestial vs That's the Weight of the World \u2022 New",
+                "event": "Fatal Attraction S16, E44",
+                "channels": [
+                    {
+                        "channel_name": "TV ONE USA",
+                        "channel_id": "660"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Bring Me the Beauties S1, E2",
                 "channels": [
                     {
                         "channel_name": "HBO USA",
@@ -521,37 +541,47 @@
             },
             {
                 "time": "01:00",
-                "event": "From S4, E7",
+                "event": "Live PD: Greatest Shifts S2, E21",
                 "channels": [
                     {
-                        "channel_name": "MGM+ USA",
-                        "channel_id": "791"
+                        "channel_name": "A&E USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "BBQ Brawl S7, E5",
+                "channels": [
+                    {
+                        "channel_name": "Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "The Stanley Pup",
+                "channels": [
+                    {
+                        "channel_name": "truTV USA",
+                        "channel_id": "341"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Top Chef S23, E14",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
                     }
                 ]
             },
             {
                 "time": "02:00",
-                "event": "C\u00f3mplices S1, E1 \u2022 Premiere",
-                "channels": [
-                    {
-                        "channel_name": "Univision USA",
-                        "channel_id": "132"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "House Hunters S277, E3",
-                "channels": [
-                    {
-                        "channel_name": "HGTV USA",
-                        "channel_id": "382"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "WWE LFG S3, E7",
+                "event": "Late Night Law S1, E2",
                 "channels": [
                     {
                         "channel_name": "A&E USA",
@@ -561,7 +591,7 @@
             },
             {
                 "time": "02:00",
-                "event": "The Food That Built America S7, E7",
+                "event": "History's Greatest Machines With Dolph Lundgren S1, E2",
                 "channels": [
                     {
                         "channel_name": "History TV",
@@ -571,127 +601,67 @@
             },
             {
                 "time": "02:00",
-                "event": "In the Eye of the Storm: Chasers S1, E4",
+                "event": "Crashers S1, E1",
                 "channels": [
                     {
-                        "channel_name": "Discovery USA",
-                        "channel_id": "313"
+                        "channel_name": "HGTV",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Lethally Blonde S2, E3",
+                "channels": [
+                    {
+                        "channel_name": "Investigation Discovery",
+                        "channel_id": "324"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "For My Man S9, E28",
+                "channels": [
+                    {
+                        "channel_name": "TV ONE USA",
+                        "channel_id": "660"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "The Chef's Garden S2, E6",
+                "channels": [
+                    {
+                        "channel_name": "FYI USA",
+                        "channel_id": "665"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Jimmy Kimmel Live! S24, E126",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
                     }
                 ]
             }
         ],
         "Soccer": [
             {
-                "time": "10:00",
-                "event": "World - Women's Friendly : Portugal U18 vs Finland U18",
-                "channels": [
-                    {
-                        "channel_name": "Canal 11 Portugal",
-                        "channel_id": "540"
-                    }
-                ]
-            },
-            {
                 "time": "13:00",
-                "event": "Asia - ASEAN U19 Championship : Indonesia U19 vs Vietnam U19",
-                "channels": [
-                    {
-                        "channel_name": "Indosiar",
-                        "channel_id": "1"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "Friendly : Liechtenstein vs Cyprus",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "DAZN1 DE",
-                        "channel_id": "426"
-                    },
-                    {
-                        "channel_name": "Sky Sport Calcio IT",
-                        "channel_id": "870"
-                    },
-                    {
-                        "channel_name": "Sky Sport Select NZ",
-                        "channel_id": "587"
-                    },
-                    {
-                        "channel_name": "Digi Sport 4 Romania",
-                        "channel_id": "403"
-                    },
-                    {
-                        "channel_name": "Nova Sports Start Greece",
-                        "channel_id": "637"
-                    },
-                    {
-                        "channel_name": "Prima Sport 3 Romania",
-                        "channel_id": "585"
-                    },
-                    {
-                        "channel_name": "SporTV BR",
-                        "channel_id": "78"
-                    },
-                    {
-                        "channel_name": "Diema Sport 2 Bulgaria",
-                        "channel_id": "466"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "156"
-                    },
-                    {
-                        "channel_name": "Sport Klub 5 Croatia",
-                        "channel_id": "26"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA English 1",
-                        "channel_id": "61"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9003"
-                    },
-                    {
-                        "channel_name": "Nova Sports Start Greece",
-                        "channel_id": "3024"
-                    },
-                    {
-                        "channel_name": "Sky Sport Select NZ",
-                        "channel_id": "3009"
-                    },
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "3082"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "Friendly : Oman vs Mozambique",
-                "channels": [
-                    {
-                        "channel_name": "Oman TV Sport",
-                        "channel_id": "2"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9005"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "Maurice Revello Tournament : Congo DR U20 vs Colombia U20",
+                "event": "Maurice Revello Tournament : C\u00f4te d'Ivoire U20 vs Canada U20",
                 "channels": [
                     {
                         "channel_name": "Astro Football",
                         "channel_id": "124"
+                    },
+                    {
+                        "channel_name": "Astro Grandstand",
+                        "channel_id": "123"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -705,137 +675,49 @@
             },
             {
                 "time": "16:00",
-                "event": "Italy - Serie C : Ascoli vs Union Brescia",
+                "event": "Friendly : Norway U21 vs Finland U21",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport 251 IT",
-                        "channel_id": "3"
-                    },
+                        "channel_name": "TV2 Sport Norway",
+                        "channel_id": "812"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Women's Friendly : Germany U23 vs Denmark U23",
+                "channels": [
+                    {
+                        "channel_name": "DF1 DE",
+                        "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "16:15",
+                "event": "Friendly : Italy U21 vs Albania U21",
+                "channels": [
                     {
                         "channel_name": "RAI 2 IT",
                         "channel_id": "851"
-                    },
-                    {
-                        "channel_name": "Sky Sport Uno IT",
-                        "channel_id": "461"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "Chile - Copa De La Liga : Universidad Chile vs Audax Italiano",
+                "event": "Maurice Revello Tournament : Venezuela U20 vs Portugal U20",
                 "channels": [
-                    {
-                        "channel_name": "TNT SPORTS Premium HD",
-                        "channel_id": "642"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Friendly : Denmark vs Ukraine",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "Sky Sport 9 NZ",
-                        "channel_id": "596"
-                    },
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
                     {
-                        "channel_name": "Polsat Sport 3 Poland",
-                        "channel_id": "129"
+                        "channel_name": "Astro Football",
+                        "channel_id": "124"
                     },
                     {
-                        "channel_name": "Polsat Sport Premium 2 Poland",
-                        "channel_id": "992"
-                    },
-                    {
-                        "channel_name": "TV2 Sport Norway",
-                        "channel_id": "812"
-                    },
-                    {
-                        "channel_name": "Sky Sport Calcio IT",
-                        "channel_id": "870"
-                    },
-                    {
-                        "channel_name": "CBC Sport Azerbaijan",
-                        "channel_id": "4"
-                    },
-                    {
-                        "channel_name": "Cytavision Sports 3 Cyprus",
-                        "channel_id": "913"
-                    },
-                    {
-                        "channel_name": "Digi Sport 2 Romania",
-                        "channel_id": "401"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    },
-                    {
-                        "channel_name": "Prima Sport 2 Romania",
-                        "channel_id": "584"
-                    },
-                    {
-                        "channel_name": "Nova Sports Prime Greece",
-                        "channel_id": "638"
-                    },
-                    {
-                        "channel_name": "TV2 Denmark",
-                        "channel_id": "817"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "156"
-                    },
-                    {
-                        "channel_name": "Diema Sport 3 Bulgaria",
-                        "channel_id": "467"
-                    },
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 2",
-                        "channel_id": "92"
-                    },
-                    {
-                        "channel_name": "Sport 1 Israel",
-                        "channel_id": "140"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9002"
-                    },
-                    {
-                        "channel_name": "TV2 Denmark",
-                        "channel_id": "3069"
-                    },
-                    {
-                        "channel_name": "Sky Sport 9 NZ",
-                        "channel_id": "3009"
-                    },
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "3082"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Maurice Revello Tournament : China PR U20 vs Tunisia U20",
-                "channels": [
-                    {
-                        "channel_name": "Sport TV2 Portugal",
-                        "channel_id": "74"
+                        "channel_name": "Astro Grandstand",
+                        "channel_id": "123"
                     },
                     {
                         "channel_name": "FOX Deportes",
@@ -844,136 +726,30 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "Friendly : Kosovo vs Andorra",
-                "channels": [
-                    {
-                        "channel_name": "Digi Sport 3 Romania",
-                        "channel_id": "402"
-                    },
-                    {
-                        "channel_name": "Diema Sport Bulgaria",
-                        "channel_id": "465"
-                    },
-                    {
-                        "channel_name": "Prima Sport 3 Romania",
-                        "channel_id": "585"
-                    },
-                    {
-                        "channel_name": "Sport Klub 5 Croatia",
-                        "channel_id": "26"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA English 1",
-                        "channel_id": "61"
-                    },
-                    {
-                        "channel_name": "Diema Sport Bulgaria",
-                        "channel_id": "3048"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2020"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "UEFA U17 Championship Final : Belgium U17 vs Italy U17",
-                "channels": [
-                    {
-                        "channel_name": "Sportdigital FUSSBALL DE",
-                        "channel_id": "571"
-                    },
-                    {
-                        "channel_name": "Teledeporte Spain (TDP)",
-                        "channel_id": "529"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 2 NL",
-                        "channel_id": "398"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 1",
-                        "channel_id": "91"
-                    }
-                ]
-            },
-            {
                 "time": "18:00",
-                "event": "Canada - Canadian Premier League : Inter Toronto vs Forge",
+                "event": "Argentina - Reserve League : Gimnasia La Plata Res. vs Godoy Cruz Res.",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 Argentina",
+                        "channel_id": "150"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Friendly : Netherlands vs Uzbekistan",
                 "channels": [
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
                     },
                     {
-                        "channel_name": "Fox Soccer Plus",
-                        "channel_id": "3083"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Uruguay Liga AUF Uruguaya : CA Cerro vs Pe\u00f1arol",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7010"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Friendly : Croatia vs Slovenia",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "Nova TV Croatia",
-                        "channel_id": "1"
-                    },
-                    {
-                        "channel_name": "Sky Sport 9 NZ",
-                        "channel_id": "596"
-                    },
-                    {
-                        "channel_name": "DAZN1 DE",
-                        "channel_id": "426"
-                    },
-                    {
-                        "channel_name": "Sport TV2 Portugal",
-                        "channel_id": "74"
+                        "channel_name": "NPO 3 NL",
+                        "channel_id": "2"
                     },
                     {
                         "channel_name": "Polsat Sport 3 Poland",
                         "channel_id": "129"
-                    },
-                    {
-                        "channel_name": "Sky Sport Calcio IT",
-                        "channel_id": "870"
-                    },
-                    {
-                        "channel_name": "Sky Sport Uno IT",
-                        "channel_id": "461"
-                    },
-                    {
-                        "channel_name": "Cytavision Sports 4 Cyprus",
-                        "channel_id": "914"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 4 NL",
-                        "channel_id": "396"
-                    },
-                    {
-                        "channel_name": "Arena Sport 3 Serbia",
-                        "channel_id": "431"
-                    },
-                    {
-                        "channel_name": "SONY TEN 1 HD",
-                        "channel_id": "885"
                     },
                     {
                         "channel_name": "Digi Sport 2 Romania",
@@ -984,8 +760,114 @@
                         "channel_id": "584"
                     },
                     {
-                        "channel_name": "SporTV BR",
-                        "channel_id": "78"
+                        "channel_name": "Sport Klub 3 Croatia",
+                        "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "TV2 Sport 2 Norway",
+                        "channel_id": "814"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 4 Cyprus",
+                        "channel_id": "914"
+                    },
+                    {
+                        "channel_name": "Arena 2 Premium Serbia",
+                        "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "Diema Sport 3 Bulgaria",
+                        "channel_id": "467"
+                    },
+                    {
+                        "channel_name": "ESPN Brazil",
+                        "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 3",
+                        "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA English 2",
+                        "channel_id": "90"
+                    },
+                    {
+                        "channel_name": "Sport 2 Israel",
+                        "channel_id": "141"
+                    }
+                ]
+            },
+            {
+                "time": "19:10",
+                "event": "Friendly : France vs Northern Ireland",
+                "channels": [
+                    {
+                        "channel_name": "BBC3 UK",
+                        "channel_id": "358"
+                    },
+                    {
+                        "channel_name": "TF1 France",
+                        "channel_id": "469"
+                    },
+                    {
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Sky Sport 2 NZ",
+                        "channel_id": "589"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Extra 1 Poland",
+                        "channel_id": "993"
+                    },
+                    {
+                        "channel_name": "Sky Sport Calcio IT",
+                        "channel_id": "870"
+                    },
+                    {
+                        "channel_name": "Sky Sport Uno IT",
+                        "channel_id": "461"
+                    },
+                    {
+                        "channel_name": "Digi Sport 1 Romania",
+                        "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Prima Sport 1 Romania",
+                        "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Sport Klub 6 Croatia",
+                        "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 2 NL",
+                        "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "TV2 Sport Norway",
+                        "channel_id": "812"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 3 Cyprus",
+                        "channel_id": "913"
+                    },
+                    {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
                     },
                     {
                         "channel_name": "Nova Sports Start Greece",
@@ -1012,412 +894,110 @@
                         "channel_id": "413"
                     },
                     {
-                        "channel_name": "beIN Sports MENA 2",
-                        "channel_id": "92"
+                        "channel_name": "beIN Sports MENA 1",
+                        "channel_id": "91"
                     },
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
                     },
                     {
-                        "channel_name": "Sport 4 Israel",
-                        "channel_id": "143"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9002"
-                    },
-                    {
-                        "channel_name": "MTV Urheilu 1 Finland",
-                        "channel_id": "3071"
-                    },
-                    {
-                        "channel_name": "Nova TV Croatia",
-                        "channel_id": "3070"
-                    },
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "3082"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2021"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7011"
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "140"
                     }
                 ]
             },
             {
-                "time": "19:00",
-                "event": "Friendly : Morocco vs Norway",
+                "time": "22:00",
+                "event": "Colombia - Primera A : Atl\u00e9tico Nacional vs Junior",
                 "channels": [
                     {
-                        "channel_name": "ITV 4 UK",
-                        "channel_id": "353"
+                        "channel_name": "Win+ Futbol Colombia",
+                        "channel_id": "392"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Chile - Primera B : Deportes Temuco vs Curic\u00f3 Unido",
+                "channels": [
+                    {
+                        "channel_name": "TNT SPORTS Premium HD",
+                        "channel_id": "642"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Friendly : Peru vs Spain",
+                "channels": [
+                    {
+                        "channel_name": "FOX Sports 2 USA",
+                        "channel_id": "758"
                     },
                     {
-                        "channel_name": "TV2 Direkte Norway",
-                        "channel_id": "2"
+                        "channel_name": "TVE La 1 Spain",
+                        "channel_id": "533"
                     },
                     {
-                        "channel_name": "Arryadia",
-                        "channel_id": "5"
+                        "channel_name": "Sky Sport 2 NZ",
+                        "channel_id": "589"
                     },
                     {
-                        "channel_name": "Movistar Liga de Campeones",
-                        "channel_id": "435"
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "49"
                     },
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "47"
                     },
                     {
-                        "channel_name": "Arena 1 Premium Serbia",
-                        "channel_id": "134"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Extra 1 Poland",
-                        "channel_id": "993"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Sport 2 Israel",
-                        "channel_id": "141"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9001"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "3086"
-                    },
-                    {
-                        "channel_name": "M. Liga de Campeones",
-                        "channel_id": "3029"
-                    },
-                    {
-                        "channel_name": "ITV 4 UK",
-                        "channel_id": "3004"
-                    },
-                    {
-                        "channel_name": "TV2 Direkte Norway",
-                        "channel_id": "3068"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2023"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Chile - Copa De La Liga : Huachipato vs Colo-Colo",
-                "channels": [
-                    {
-                        "channel_name": "TNT SPORTS Premium HD",
-                        "channel_id": "642"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Friendly : Greece vs Italy",
-                "channels": [
-                    {
-                        "channel_name": "RAI 1 IT",
-                        "channel_id": "850"
-                    },
-                    {
-                        "channel_name": "Alpha TV Greece",
-                        "channel_id": "200"
-                    },
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    },
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "49"
-                    },
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    },
-                    {
-                        "channel_name": "L'Equipe France",
-                        "channel_id": "645"
-                    },
-                    {
-                        "channel_name": "TV2 Sport Norway",
-                        "channel_id": "812"
+                        "channel_name": "Ziggo Sport 1 NL",
+                        "channel_id": "393"
                     },
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
                     },
                     {
-                        "channel_name": "Cytavision Sports 3 Cyprus",
-                        "channel_id": "913"
+                        "channel_name": "Prima Sport 1 Romania",
+                        "channel_id": "583"
                     },
                     {
-                        "channel_name": "CBC Sport Azerbaijan",
-                        "channel_id": "4"
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
                     },
                     {
-                        "channel_name": "Ziggo Sport 1 NL",
-                        "channel_id": "393"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "156"
-                    },
-                    {
-                        "channel_name": "SONY TEN 2 HD",
-                        "channel_id": "886"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    },
-                    {
-                        "channel_name": "Diema Sport 3 Bulgaria",
-                        "channel_id": "467"
+                        "channel_name": "ESPN Mexico",
+                        "channel_id": "925"
                     },
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
                     },
                     {
-                        "channel_name": "SuperSport Premier League",
-                        "channel_id": "414"
+                        "channel_name": "Diema Sport 3 Bulgaria",
+                        "channel_id": "467"
                     },
                     {
-                        "channel_name": "beIN Sports MENA 4",
-                        "channel_id": "94"
+                        "channel_name": "ESPN Argentina",
+                        "channel_id": "149"
                     },
                     {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
+                        "channel_name": "SuperSport PSL",
+                        "channel_id": "413"
                     },
                     {
-                        "channel_name": "beIN Sports MENA English 2",
-                        "channel_id": "90"
+                        "channel_name": "beIN Sports MENA 2",
+                        "channel_id": "92"
                     },
                     {
-                        "channel_name": "Sport 1 Israel",
-                        "channel_id": "140"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9004"
-                    },
-                    {
-                        "channel_name": "DAZN DE",
-                        "channel_id": "3099"
-                    },
-                    {
-                        "channel_name": "Alpha TV Greece",
-                        "channel_id": "3023"
-                    },
-                    {
-                        "channel_name": "RAI 1 IT",
-                        "channel_id": "3047"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2022"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5006"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7012"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Spain - Segunda Division : Las Palmas vs M\u00e1laga",
-                "channels": [
-                    {
-                        "channel_name": "LALIGA TV Hypermotion",
-                        "channel_id": "539"
-                    },
-                    {
-                        "channel_name": "Viaplay Sports 1 UK",
-                        "channel_id": "451"
-                    },
-                    {
-                        "channel_name": "DAZN Eleven 1 Portugal",
-                        "channel_id": "455"
-                    },
-                    {
-                        "channel_name": "CANAL+ Sport Poland",
-                        "channel_id": "48"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1x2 Serbia",
-                        "channel_id": "612"
-                    },
-                    {
-                        "channel_name": "Prima Sport 4 Romania",
-                        "channel_id": "586"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Croatia",
-                        "channel_id": "432"
-                    },
-                    {
-                        "channel_name": "MAX Sport 4 Bulgaria",
-                        "channel_id": "475"
-                    },
-                    {
-                        "channel_name": "beIN Sports Malaysia",
-                        "channel_id": "712"
-                    },
-                    {
-                        "channel_name": "Nova Sports 1 Greece",
-                        "channel_id": "631"
-                    },
-                    {
-                        "channel_name": "TV4 Sportkanalen",
-                        "channel_id": "707"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 4",
-                        "channel_id": "419"
-                    },
-                    {
-                        "channel_name": "LALIGA TV Hypermotion",
-                        "channel_id": "3028"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Chile Copa de la Liga : Huachipato vs Colo-Colo",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7013"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Friendly : Ecuador vs Guatemala",
-                "channels": [
-                    {
-                        "channel_name": "DIRECTV Sports Argentina",
-                        "channel_id": "619"
-                    },
-                    {
-                        "channel_name": "Movistar Liga de Campeones 2",
-                        "channel_id": "6"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2024"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5007"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7014"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "Argentina - Copa Argentina : San Lorenzo vs Deportivo Riestra",
-                "channels": [
-                    {
-                        "channel_name": "TyC Sports Argentina",
-                        "channel_id": "746"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Uruguay Liga AUF Uruguaya : Defender Sporting vs Boston River",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7015"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Chile - Copa De La Liga : Deportes Limache vs Everton",
-                "channels": [
-                    {
-                        "channel_name": "TNT SPORTS Premium HD",
-                        "channel_id": "642"
-                    },
-                    {
-                        "channel_name": "TNT SPORTS Premium",
-                        "channel_id": "3027"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Friendly : Colombia vs Jordan",
-                "channels": [
-                    {
-                        "channel_name": "Jordan TV Sport",
-                        "channel_id": "3"
-                    },
-                    {
-                        "channel_name": "Caracol TV Colombia",
-                        "channel_id": "1"
-                    },
-                    {
-                        "channel_name": "Movistar Liga de Campeones",
-                        "channel_id": "435"
-                    },
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "49"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "9001"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "3086"
-                    },
-                    {
-                        "channel_name": "M. Liga de Campeones",
-                        "channel_id": "3029"
-                    },
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "3021"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2025"
+                        "channel_name": "Sport 2 Israel",
+                        "channel_id": "141"
                     }
                 ]
             }
@@ -1425,171 +1005,21 @@
         "USL League Two": [
             {
                 "time": "19:00",
-                "event": "United States - USL League Two : Eagle FC vs Real Central New Jersey",
+                "event": "United States - USL League Two : Colorado Storm vs Flatirons Rush",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "55"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "United States - USL League Two : Lakeland United vs Weston",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "59"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "United States - USL League Two : Toledo Villa vs Louisville City 2",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "United States - USL League Two : West Seattle Junction vs Midlakes United",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "69"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "United States - USL League Two : Union Macomb vs Kalamazoo FC",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "United States - USL League Two : Long Island Rough Riders vs Morris Elite",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "77"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "United States - USL League Two : San Francisco City vs SF Glens",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "86"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "United States - USL League Two : Snohomish United vs Oly Town",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "105"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "United States - USL League Two : Asheville City vs Wake",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "106"
+                        "channel_id": "12"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "United States - USL League Two : RKC Third Coast vs St. Croix",
+                "event": "United States - USL League Two : The Villages vs Sporting Jax 2",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "107"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "United States - USL League Two : Tacoma Stars vs Bigfoot",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "108"
-                    }
-                ]
-            },
-            {
-                "time": "23:15",
-                "event": "United States - USL League Two : Loudoun 2 vs Lionsbridge",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "109"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "United States - USL League Two : Virginia Marauders vs Christos",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "110"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "United States - USL League Two : Loudoun 2 vs Lionsbridge",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "151"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "United States - USL League Two : Albion Colorado vs Real Colorado",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "152"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "United States - USL League Two : AMSG vs Stars FC",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "United States - USL Cup : Brooklyn vs Portland Hearts of Pine",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "154"
+                        "channel_id": "13"
                     }
                 ]
             }
@@ -1597,7 +1027,7 @@
         "Cricket": [
             {
                 "time": "04:00",
-                "event": "Test | Day 2 : India vs Afghanistan",
+                "event": "Test | Day 3 : India vs Afghanistan",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -1608,12 +1038,12 @@
                         "channel_id": "31"
                     },
                     {
-                        "channel_name": "Fox Cricket",
-                        "channel_id": "369"
+                        "channel_name": "Willow Cricket",
+                        "channel_id": "346"
                     },
                     {
-                        "channel_name": "SuperSport Cricket",
-                        "channel_id": "368"
+                        "channel_name": "Sky Sport 2 NZ",
+                        "channel_id": "589"
                     },
                     {
                         "channel_name": "Sky Sport 6 NZ",
@@ -1622,17 +1052,23 @@
                 ]
             },
             {
-                "time": "10:00",
-                "event": "1st Test Day-4 : England vs New Zealand",
+                "time": "09:00",
+                "event": "T20 World Cup Women : India W vs West Indies W",
                 "channels": [
                     {
-                        "channel_name": "Willow 2 Cricket",
-                        "channel_id": "598"
+                        "channel_name": "Sky Sports Mix UK",
+                        "channel_id": "449"
                     },
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
-                    },
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "1st Test Day-5 : England vs New Zealand",
+                "channels": [
                     {
                         "channel_name": "Sky Sports Cricket UK",
                         "channel_id": "65"
@@ -1646,6 +1082,10 @@
                         "channel_id": "369"
                     },
                     {
+                        "channel_name": "Sky Sport 1 NZ",
+                        "channel_id": "588"
+                    },
+                    {
                         "channel_name": "SuperSport Cricket",
                         "channel_id": "368"
                     }
@@ -1653,7 +1093,7 @@
             },
             {
                 "time": "10:30",
-                "event": "EUT20 Belgium : JB Bruges vs. Ghent Gladiators",
+                "event": "EUT20 Belgium : JB Bruges vs Liege Red Lions",
                 "channels": [
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -1666,8 +1106,28 @@
                 ]
             },
             {
+                "time": "12:00",
+                "event": "Queens Club Championships",
+                "channels": [
+                    {
+                        "channel_name": "BBC Two UK",
+                        "channel_id": "357"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "T20 World Cup Women : England W vs Australia W",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Mix UK",
+                        "channel_id": "449"
+                    }
+                ]
+            },
+            {
                 "time": "14:30",
-                "event": "EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels",
+                "event": "EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators",
                 "channels": [
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -1682,60 +1142,20 @@
         ],
         "Tennis": [
             {
-                "time": "12:30",
-                "event": "Roland-Garros Men | Singles | Final : Cobolli F. vs Zverev A.",
+                "time": "09:00",
+                "event": "ATP / WTA: Stuttgart / Hertogenbosch",
                 "channels": [
                     {
-                        "channel_name": "truTV USA",
-                        "channel_id": "341"
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
                     },
                     {
-                        "channel_name": "TNT USA",
-                        "channel_id": "338"
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "36"
                     },
                     {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "TNT Sports 4 UK",
-                        "channel_id": "34"
-                    },
-                    {
-                        "channel_name": "TNT Sports 5 UK",
-                        "channel_id": "614"
-                    },
-                    {
-                        "channel_name": "TNT Sports 6 UK",
-                        "channel_id": "615"
-                    },
-                    {
-                        "channel_name": "TNT Sports 7 UK",
-                        "channel_id": "616"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "RDS CA",
-                        "channel_id": "839"
-                    },
-                    {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
+                        "channel_name": "Sky Sport Uno IT",
+                        "channel_id": "461"
                     },
                     {
                         "channel_name": "France 2",
@@ -1758,20 +1178,76 @@
                         "channel_id": "887"
                     },
                     {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis DE",
+                        "channel_id": "884"
+                    },
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
                         "channel_name": "TV4 Tennis",
                         "channel_id": "701"
                     },
                     {
-                        "channel_name": "Canal+ Sport 2 Poland",
-                        "channel_id": "73"
+                        "channel_name": "Canal+ Sport 2 CZ",
+                        "channel_id": "1043"
                     },
                     {
-                        "channel_name": "ESPN2 Brazil",
-                        "channel_id": "82"
+                        "channel_name": "MAX Sport 1 Bulgaria",
+                        "channel_id": "472"
                     },
                     {
-                        "channel_name": "ESPN Argentina",
-                        "channel_id": "149"
+                        "channel_name": "Cytavision Sports 6 Cyprus",
+                        "channel_id": "916"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes Spain",
+                        "channel_id": "436"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 2 Spain",
+                        "channel_id": "438"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 3 Spain",
+                        "channel_id": "526"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes 4 Spain",
+                        "channel_id": "527"
+                    },
+                    {
+                        "channel_name": "MAX Sport 2 Bulgaria",
+                        "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "MAX Sport 3 Bulgaria",
+                        "channel_id": "474"
+                    },
+                    {
+                        "channel_name": "Digi Sport 2 Romania",
+                        "channel_id": "401"
+                    },
+                    {
+                        "channel_name": "Digi Sport 4 Romania",
+                        "channel_id": "403"
+                    },
+                    {
+                        "channel_name": "ESPN2 Argentina",
+                        "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS Australia 1",
+                        "channel_id": "491"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS Australia 2",
+                        "channel_id": "492"
                     },
                     {
                         "channel_name": "beIN Sports 2 Malaysia",
@@ -1782,162 +1258,32 @@
                         "channel_id": "712"
                     },
                     {
+                        "channel_name": "NovaSports 6 GR",
+                        "channel_id": "636"
+                    },
+                    {
+                        "channel_name": "ESPN2 Brazil",
+                        "channel_id": "82"
+                    },
+                    {
                         "channel_name": "beIN Sports 3 Malaysia",
                         "channel_id": "714"
                     },
                     {
-                        "channel_name": "EuroSport 1 UK",
-                        "channel_id": "41"
+                        "channel_name": "Sport Klub 1 Croatia",
+                        "channel_id": "101"
                     },
                     {
-                        "channel_name": "EuroSport 1 Poland",
-                        "channel_id": "57"
+                        "channel_name": "Sport Klub 2 Croatia",
+                        "channel_id": "102"
                     },
                     {
-                        "channel_name": "EuroSport 1 Spain",
-                        "channel_id": "524"
+                        "channel_name": "Sport Klub 4 Croatia",
+                        "channel_id": "104"
                     },
                     {
-                        "channel_name": "Eurosport 1 SE",
-                        "channel_id": "231"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Italy",
-                        "channel_id": "878"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Greece",
-                        "channel_id": "41"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 AL",
-                        "channel_id": "890"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 AL",
-                        "channel_id": "891"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 BG",
-                        "channel_id": "892"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 BG",
-                        "channel_id": "893"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 CZ",
-                        "channel_id": "894"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 CZ",
-                        "channel_id": "895"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 DK",
-                        "channel_id": "896"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 DK",
-                        "channel_id": "897"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 SR",
-                        "channel_id": "898"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 SR",
-                        "channel_id": "899"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 HU",
-                        "channel_id": "900"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 HU",
-                        "channel_id": "902"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 PT",
-                        "channel_id": "903"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 PT",
-                        "channel_id": "904"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 RO",
-                        "channel_id": "905"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 RO",
-                        "channel_id": "906"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 TR",
-                        "channel_id": "907"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 TR",
-                        "channel_id": "920"
-                    },
-                    {
-                        "channel_name": "ESPN2 Brasil",
-                        "channel_id": "82"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 7",
-                        "channel_id": "97"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 8",
-                        "channel_id": "98"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 9",
-                        "channel_id": "99"
-                    },
-                    {
-                        "channel_name": "Court Philippe Chatrier",
-                        "channel_id": "5031"
-                    },
-                    {
-                        "channel_name": "Court Simonne Mathieu",
-                        "channel_id": "5032"
-                    },
-                    {
-                        "channel_name": "Court 14 Tennis",
-                        "channel_id": "5033"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Major League Pickleball MLP from St. Louis",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Major League Pickleball MLP from St. Louis",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Major League Pickleball : St. Louis, Championship Sunday",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Channel USA",
-                        "channel_id": "40"
+                        "channel_name": "Sport Klub 5 Croatia",
+                        "channel_id": "151"
                     }
                 ]
             }
@@ -1957,7 +1303,7 @@
         "Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Qualifying, Grass": [
             {
                 "time": "09:00",
-                "event": "ATP - Singles : \ud83c\uddfa\ud83c\uddf8 Martin Damm vs \ud83c\udde6\ud83c\uddf7 Juan Pablo Ficovich",
+                "event": "ATP - Singles : \ud83c\uddf3\ud83c\uddf1 Niels Borges vs \ud83c\uddeb\ud83c\uddf7 Terence Atmane",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -1967,7 +1313,7 @@
             },
             {
                 "time": "10:30",
-                "event": "ATP - Singles : \ud83c\uddf3\ud83c\uddf1 Niels Visker vs \ud83c\uddf8\ud83c\uddea Elias Ymer",
+                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Benjamin Bonzi vs \ud83c\udde9\ud83c\uddea Max Rottgering",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -1976,8 +1322,8 @@
                 ]
             },
             {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Benjamin Bonzi vs \ud83c\udde6\ud83c\uddfa Bernard Tomic",
+                "time": "12:30",
+                "event": "ATP - Singles : \ud83c\udded\ud83c\uddf7 Marin Cilic vs \ud83c\udde8\ud83c\udde6 Denis Shapovalov",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -1986,8 +1332,8 @@
                 ]
             },
             {
-                "time": "12:00",
-                "event": "ATP - Singles : \ud83c\udde6\ud83c\uddfa James McCabe vs \ud83c\uddf3\ud83c\uddf1 Jesper de Jong",
+                "time": "14:00",
+                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Ugo Humbert vs \ud83c\uddf8\ud83c\uddea Elias Ymer",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -1998,8 +1344,78 @@
         ],
         "Tennis ATP - SINGLES: Stuttgart Qualifying (Germany), Grass": [
             {
-                "time": "09:00",
-                "event": "ATP - Singles : \ud83c\udde8\ud83c\udded Marc-Andrea Huesler vs \ud83c\udde7\ud83c\uddea Gauthier Onclin",
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Daniel Altmaier vs \ud83c\uddfa\ud83c\uddf8 Frances Tiafoe",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\uddea\ud83c\uddf8 Roberto Bautista Agut vs \ud83c\uddfa\ud83c\uddf8 Marcos Giron",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Diego Dedura vs \ud83c\udde6\ud83c\uddfa James Duckworth",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Tom Gentzsch vs \ud83c\udde6\ud83c\uddfa Rinky Hijikata",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\uddef\ud83c\uddf5 Sho Shimabukuro",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Yannick Hanfmann vs \ud83c\uddfa\ud83c\uddf8 Aleksandar Kovacevic",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\uddf3\ud83c\uddf4 Nick Kyrgios vs \ud83c\uddeb\ud83c\uddf7 Corentin Moutet",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Singles : \ud83c\udde9\ud83c\uddea Jan-Lennard Struff vs \ud83c\udde8\ud83c\udde6 Alexis Galarneau",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2009,7 +1425,7 @@
             },
             {
                 "time": "09:00",
-                "event": "ATP - Singles : \ud83c\uddef\ud83c\uddf5 Sho Shimabukuro vs \ud83c\uddeb\ud83c\uddf7 Valentin Royer",
+                "event": "ATP - Singles : \ud83c\uddea\ud83c\uddf8 Alejandro Davidovich Fokina vs \ud83c\uddee\ud83c\uddf9 Mattia Bellucci",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2019,7 +1435,7 @@
             },
             {
                 "time": "10:30",
-                "event": "ATP - Singles : \ud83c\uddf9\ud83c\uddf7 Mert Alkaya vs \ud83c\uddeb\ud83c\uddf7 Pierre-Hugues Herbert",
+                "event": "ATP - Singles : \ud83c\uddeb\ud83c\uddf7 Pierre-Hugues Herbert vs \ud83c\uddea\ud83c\uddf8 Martin Landaluce",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2028,8 +1444,18 @@
                 ]
             },
             {
-                "time": "10:30",
-                "event": "ATP - Singles : \ud83c\uddf0\ud83c\uddff Roman Safiullin vs \ud83c\udde8\ud83c\udde6 Alexis Galarneau",
+                "time": "13:00",
+                "event": "ATP - Singles : \ud83c\uddfa\ud83c\uddf8 Tommy Paul vs \ud83c\uddeb\ud83c\uddf7 Giovanni Mpetshi Perricard",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - Singles : \ud83c\udde7\ud83c\uddea Gauthier Onclin vs \ud83c\udded\ud83c\uddfa Fabian Marozsan",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2041,7 +1467,7 @@
         "Tennis WTA - SINGLES: Hertogenbosch (Netherlands) Qualifying, Grass": [
             {
                 "time": "09:00",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Ella Seidel vs \ud83c\udde7\ud83c\uddea Greet Minnen",
+                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddfa Ekaterina Alexandrova vs \ud83c\udded\ud83c\uddfa Panna Udvardy",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2051,7 +1477,7 @@
             },
             {
                 "time": "09:00",
-                "event": "WTA - Singles : \ud83c\udde7\ud83c\uddea Hanne Vandewinkel vs \ud83c\uddf3\ud83c\uddf1 Anouk Koevermans",
+                "event": "WTA - Singles : \ud83c\uddf5\ud83c\uddf1 Magda Linette vs \ud83c\udde6\ud83c\uddfa Kimberly Birrell",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2061,7 +1487,7 @@
             },
             {
                 "time": "10:30",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Katie Volynets vs \ud83c\udde8\ud83c\uddf3 Zhu Lin",
+                "event": "WTA - Singles : \ud83c\udde8\ud83c\udde6 Bianca Andreescu vs \ud83c\udde7\ud83c\uddea Elise Mertens",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2070,8 +1496,28 @@
                 ]
             },
             {
-                "time": "12:00",
-                "event": "WTA - Singles : \ud83c\uddfa\ud83c\uddf8 Robin Montgomery vs \ud83c\uddf9\ud83c\uddfc Joanna Garland",
+                "time": "10:30",
+                "event": "WTA - Singles : \ud83c\uddf7\ud83c\uddfa Daria Kasatkina vs \ud83c\uddfa\ud83c\uddf8 Robin Montgomery",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - Singles : \ud83c\uddfa\ud83c\udde6 Daria Snigur vs \ud83c\uddea\ud83c\uddf8 Paula Badosa",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - Singles : \ud83c\uddf8\ud83c\uddf0 Martina Pospisilova vs \ud83c\uddeb\ud83c\uddf7 Caroline Garcia",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2082,8 +1528,8 @@
         ],
         "Tennis WTA - SINGLES:  London (United Kingdom) - Qualification, Grass": [
             {
-                "time": "09:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Jodie Burrage vs \ud83c\uddf7\ud83c\uddfa Anna Blinkova",
+                "time": "11:00",
+                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Harriet Dart vs \ud83c\uddf7\ud83c\uddfa Liudmila Samsonova",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2092,8 +1538,8 @@
                 ]
             },
             {
-                "time": "09:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Talia Gibson vs \ud83c\uddf7\ud83c\uddfa Alina Charaeva",
+                "time": "11:00",
+                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Karolina Pliskova vs \ud83c\uddfa\ud83c\uddf8 McCartney Kessler",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2102,8 +1548,8 @@
                 ]
             },
             {
-                "time": "09:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Priscilla Hon vs \ud83c\uddf7\ud83c\uddfa Polina Kudermetova",
+                "time": "12:00",
+                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddf3 Qinwen Zheng vs \ud83c\udde7\ud83c\uddea Jeline Cristian",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2112,8 +1558,8 @@
                 ]
             },
             {
-                "time": "09:30",
-                "event": "WTA - Singles : \ud83c\udded\ud83c\uddf7 Donna Veki\u0107 vs \ud83c\uddeb\ud83c\uddf7 Clara Burel Monnet",
+                "time": "13:30",
+                "event": "WTA - Singles : \ud83c\uddec\ud83c\udde7 Katie Boulter vs \ud83c\udde8\ud83c\udde6 Leylah Fernandez",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -2122,38 +1568,8 @@
                 ]
             },
             {
-                "time": "12:30",
-                "event": "WTA - Singles : \ud83c\uddec\ud83c\uddea Ekaterine Gorgodze vs \ud83c\uddf7\ud83c\uddfa Kamilla Rakhimova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "WTA - Singles : \ud83c\udde6\ud83c\uddfa Maddison Inglis vs \ud83c\uddfa\ud83c\uddf8 Alycia Parks",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "WTA - Singles : \ud83c\uddeb\ud83c\uddf7 Elsa Jacquemot vs \ud83c\udde8\ud83c\uddf3 Guo Hanyu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Tatjana Maria vs \ud83c\uddec\ud83c\udde7 Lily Miyazaki",
+                "time": "15:00",
+                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Laura Siegemund vs \ud83c\uddec\ud83c\udde7 Francesca Jones",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -3050,289 +2466,11 @@
         ],
         "Golf": [
             {
-                "time": "10:30",
-                "event": "LIV Golf Andalucia | Round 4 Real Club Valderrama",
+                "time": "22:00",
+                "event": "Golf's Longest Day Live",
                 "channels": [
-                    {
-                        "channel_name": "TNT Sports 4 UK",
-                        "channel_id": "34"
-                    },
-                    {
-                        "channel_name": "FOX Sports 1 USA",
-                        "channel_id": "39"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    }
-                ]
-            },
-            {
-                "time": "10:30",
-                "event": "DP World Tour KLM Open",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
                     {
                         "channel_name": "GOLF Channel USA",
-                        "channel_id": "318"
-                    },
-                    {
-                        "channel_name": "FOX Sports 1 USA",
-                        "channel_id": "39"
-                    },
-                    {
-                        "channel_name": "Sky Sports Golf DE",
-                        "channel_id": "785"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    },
-                    {
-                        "channel_name": "Sky Sports Main Event",
-                        "channel_id": "38"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "V Sport Golf",
-                        "channel_id": "937"
-                    },
-                    {
-                        "channel_name": "SuperSport Golf",
-                        "channel_id": "422"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 6 NL",
-                        "channel_id": "901"
-                    },
-                    {
-                        "channel_name": "Sport KLUB Golf Croatia",
-                        "channel_id": "710"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "PGA Tour The Memorial Tournament presented by Workday",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "GOLF Channel USA",
-                        "channel_id": "318"
-                    },
-                    {
-                        "channel_name": "Sky Sports Golf DE",
-                        "channel_id": "785"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    },
-                    {
-                        "channel_name": "Sky Sports Main Event",
-                        "channel_id": "38"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "V Sport Golf",
-                        "channel_id": "937"
-                    },
-                    {
-                        "channel_name": "SuperSport Golf",
-                        "channel_id": "422"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 6 NL",
-                        "channel_id": "901"
-                    },
-                    {
-                        "channel_name": "Sport KLUB Golf Croatia",
-                        "channel_id": "710"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "PGA Tour The Memorial Tournament presented by Workday",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "GOLF Channel USA",
-                        "channel_id": "318"
-                    },
-                    {
-                        "channel_name": "Sky Sports Golf DE",
-                        "channel_id": "785"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    },
-                    {
-                        "channel_name": "Sky Sports Main Event",
-                        "channel_id": "38"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "V Sport Golf",
-                        "channel_id": "937"
-                    },
-                    {
-                        "channel_name": "SuperSport Golf",
-                        "channel_id": "422"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 6 NL",
-                        "channel_id": "901"
-                    },
-                    {
-                        "channel_name": "Sport KLUB Golf Croatia",
-                        "channel_id": "710"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "PGA Tour Golf The Memorial Tournament, Final Round",
-                "channels": [
-                    {
-                        "channel_name": "CBSNY USA",
-                        "channel_id": "767"
-                    },
-                    {
-                        "channel_name": "CBS USA",
-                        "channel_id": "52"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "PGA Tour Champions Golf American Family Insurance Championship, Final Round",
-                "channels": [
-                    {
-                        "channel_name": "Golf Channel USA",
-                        "channel_id": "318"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "LPGA Tour US Women's Open presented by Ally",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "GOLF Channel USA",
-                        "channel_id": "318"
-                    },
-                    {
-                        "channel_name": "CBS USA",
-                        "channel_id": "52"
-                    },
-                    {
-                        "channel_name": "CBSNY USA",
-                        "channel_id": "767"
-                    },
-                    {
-                        "channel_name": "Sky Sports Golf DE",
-                        "channel_id": "785"
-                    },
-                    {
-                        "channel_name": "Movistar Golf",
-                        "channel_id": "528"
-                    },
-                    {
-                        "channel_name": "Sky Sports Main Event",
-                        "channel_id": "38"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "Sky Sport 4 NZ",
-                        "channel_id": "591"
-                    },
-                    {
-                        "channel_name": "V Sport Golf",
-                        "channel_id": "937"
-                    },
-                    {
-                        "channel_name": "SuperSport Golf",
-                        "channel_id": "422"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 6 NL",
-                        "channel_id": "901"
-                    },
-                    {
-                        "channel_name": "Sport KLUB Golf Croatia",
-                        "channel_id": "710"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "PGA Korn Ferry Tour Golf BMW Charity Pro-Am, Final Round",
-                "channels": [
-                    {
-                        "channel_name": "Golf Channel USA",
-                        "channel_id": "318"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "2026 U.S. Women's Open Golf Championship Final Round",
-                "channels": [
-                    {
-                        "channel_name": "NBCNY USA",
-                        "channel_id": "769"
-                    },
-                    {
-                        "channel_name": "NBC USA",
-                        "channel_id": "53"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "Live From the U.S. Women's Open",
-                "channels": [
-                    {
-                        "channel_name": "Golf Channel USA",
                         "channel_id": "318"
                     }
                 ]
@@ -3518,20 +2656,52 @@
         ],
         "Baseball (MLB)": [
             {
-                "time": "17:35",
-                "event": "MLB : New York Yankees vs Boston Red Sox",
+                "time": "22:35",
+                "event": "MLB : Baltimore Orioles vs Seattle Mariners",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "12"
+                        "channel_id": "4"
                     },
                     {
-                        "channel_name": "TNT Sports 2 UK",
-                        "channel_id": "32"
+                        "channel_name": "MASN USA",
+                        "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "TSN2",
+                        "channel_id": "112"
+                    }
+                ]
+            },
+            {
+                "time": "22:40",
+                "event": "MLB : Tampa Bay Rays vs Boston Red Sox",
+                "channels": [
+                    {
+                        "channel_name": "MLB league pass",
+                        "channel_id": "5"
                     },
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    }
+                ]
+            },
+            {
+                "time": "22:40",
+                "event": "MLB : Cleveland Guardians vs New York Yankees",
+                "channels": [
+                    {
+                        "channel_name": "MLB league pass",
+                        "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "FOX Sports 1 USA",
+                        "channel_id": "39"
                     },
                     {
                         "channel_name": "YES USA",
@@ -3540,80 +2710,16 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5039"
                     }
                 ]
             },
             {
-                "time": "17:35",
-                "event": "MLB : Philadelphia Phillies vs Chicago White Sox",
+                "time": "23:07",
+                "event": "MLB : Toronto Blue Jays vs Philadelphia Phillies",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "13"
-                    },
-                    {
-                        "channel_name": "NBCS Philadelphia",
-                        "channel_id": "777"
-                    },
-                    {
-                        "channel_name": "MLB Network USA",
-                        "channel_id": "399"
-                    },
-                    {
-                        "channel_name": "Chicago Sports Network",
-                        "channel_id": "776"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5040"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "MLB : Atlanta Braves vs Pittsburgh Pirates",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "Sky Sport Arena IT",
-                        "channel_id": "462"
-                    },
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5041"
-                    }
-                ]
-            },
-            {
-                "time": "17:37",
-                "event": "MLB : Toronto Blue Jays vs Baltimore Orioles",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    },
-                    {
-                        "channel_name": "Sportsnet West",
-                        "channel_id": "407"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
+                        "channel_id": "7"
                     },
                     {
                         "channel_name": "Sportsnet One",
@@ -3624,226 +2730,68 @@
                         "channel_id": "833"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5042"
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "NBCS Philadelphia USA",
+                        "channel_id": "777"
                     }
                 ]
             },
             {
-                "time": "17:40",
-                "event": "MLB : Detroit Tigers vs Seattle Mariners",
+                "time": "01:38",
+                "event": "MLB : Los Angeles Angels vs Houston Astros",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5043"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Miami Marlins vs Tampa Bay Rays",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "17"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5044"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "MLB : Houston Astros vs Oakland Athletics",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "18"
-                    },
-                    {
-                        "channel_name": "NBCS California USA",
-                        "channel_id": "755"
+                        "channel_id": "8"
                     },
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5045"
                     }
                 ]
             },
             {
-                "time": "18:10",
-                "event": "MLB : Minnesota Twins vs Kansas City Royals",
+                "time": "01:40",
+                "event": "MLB : San Diego Padres vs Cincinnati Reds",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "19"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5046"
+                        "channel_id": "9"
                     }
                 ]
             },
             {
-                "time": "18:15",
-                "event": "MLB : St. Louis Cardinals vs Cincinnati Reds",
+                "time": "01:45",
+                "event": "MLB : San Francisco Giants vs Washington Nationals",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "20"
+                        "channel_id": "10"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5047"
+                        "channel_name": "NBCS Bay Area USA",
+                        "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "MLB Network USA",
+                        "channel_id": "399"
                     }
                 ]
             },
             {
-                "time": "18:35",
-                "event": "MLB : Texas Rangers vs Cleveland Guardians",
+                "time": "02:05",
+                "event": "MLB : Oakland Athletics vs Milwaukee Brewers",
                 "channels": [
                     {
                         "channel_name": "MLB league pass",
-                        "channel_id": "21"
+                        "channel_id": "11"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5048"
-                    }
-                ]
-            },
-            {
-                "time": "19:10",
-                "event": "MLB : Colorado Rockies vs Milwaukee Brewers",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "22"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5050"
-                    }
-                ]
-            },
-            {
-                "time": "19:15",
-                "event": "MLB : Arizona Diamondbacks vs Washington Nationals",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "23"
-                    },
-                    {
-                        "channel_name": "NBC UNIVERSO",
-                        "channel_id": "845"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5051"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : Los Angeles Dodgers vs Los Angeles Angels",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "24"
-                    },
-                    {
-                        "channel_name": "Sportsnet One",
-                        "channel_id": "411"
-                    },
-                    {
-                        "channel_name": "Sportsnet West",
-                        "channel_id": "407"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
-                    },
-                    {
-                        "channel_name": "Spectrum Sportsnet LA",
-                        "channel_id": "764"
-                    },
-                    {
-                        "channel_name": "Sportsnet 360",
-                        "channel_id": "409"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5052"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : San Diego Padres vs New York Mets",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "25"
-                    },
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5053"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "MLB : Chicago Cubs vs San Francisco Giants",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "2"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "NBC USA",
-                        "channel_id": "53"
-                    },
-                    {
-                        "channel_name": "NBCNY USA",
-                        "channel_id": "769"
-                    },
-                    {
-                        "channel_name": "RDS CA",
-                        "channel_id": "839"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5055"
+                        "channel_name": "NBCS California USA",
+                        "channel_id": "755"
                     }
                 ]
             }
@@ -3912,290 +2860,154 @@
         ],
         "Basketball": [
             {
-                "time": "14:55",
-                "event": "Women's 3x3 Basketball: World Championship - Warsaw semi-final matches",
+                "time": "16:30",
+                "event": "VTB United League : Unics Kazan vs CSKA Moscow",
                 "channels": [
                     {
-                        "channel_name": "beIN SPORTS USA",
-                        "channel_id": "425"
-                    },
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "128"
-                    },
-                    {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "15:55",
-                "event": "FIBA 3x3 World Cup: Day 7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport Select NZ",
-                        "channel_id": "587"
-                    }
-                ]
-            },
-            {
-                "time": "16:10",
-                "event": "Basketball 3x3: World Championship - Warsaw semi-final matches",
-                "channels": [
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "128"
-                    },
-                    {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Basketball 3x3: World Championship - Warsaw match for 3rd place",
-                "channels": [
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "128"
-                    },
-                    {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "18:40",
-                "event": "Women's 3x3 Basketball: World Championship - Warsaw final match",
-                "channels": [
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "128"
-                    },
-                    {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "NBL : Wellington Saints vs Otago Nuggets",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
-                "time": "06:00",
-                "event": "NBL : Southland Sharks vs Franklin Bulls",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "VTB United League : Lokomotiv Kuban vs Zenit Petersburg",
-                "channels": [
-                    {
-                        "channel_name": "\u041c\u0410\u0422\u0427! \u0421\u0422\u0420\u0410\u041d\u0410",
-                        "channel_id": "157"
-                    },
-                    {
-                        "channel_name": "Arena 3 Premium Serbia",
-                        "channel_id": "139"
-                    }
-                ]
-            },
-            {
-                "time": "14:52",
-                "event": "LPB : Benfica vs FC Porto",
-                "channels": [
-                    {
-                        "channel_name": "RTP 2 Portugal",
-                        "channel_id": "720"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "ACB : Valencia vs Bilbao",
-                "channels": [
-                    {
-                        "channel_name": "ACB DAZN Spain",
-                        "channel_id": "9"
-                    },
-                    {
-                        "channel_name": "Arena 3 Premium Serbia",
-                        "channel_id": "139"
-                    },
-                    {
-                        "channel_name": "Sport Klub 6 Croatia",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "15:55",
-                "event": "SuperSport Premier League final : Cibona - Zadar",
-                "channels": [
-                    {
-                        "channel_name": "MAX Sport 2 Croatia",
-                        "channel_id": "780"
+                        "channel_name": "Arena 2 Premium Serbia",
+                        "channel_id": "135"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "LNB : Cholet vs Paris",
+                "event": "French League : Semi-finals",
                 "channels": [
                     {
-                        "channel_name": "Arena Sport 2 Serbia",
-                        "channel_id": "430"
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "Polish Basketball League : Legia vs Zielona Gora",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Basket League : Olympiakos vs Panathinaikos",
+                "channels": [
+                    {
+                        "channel_name": "ERT 2 Greece",
+                        "channel_id": "3"
                     },
                     {
-                        "channel_name": "Sport Klub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "17:50",
-                "event": "Israeli League: Playoffs - 1/2 Final (G1) : Hapoel Tel Aviv vs Hapoel Jerusalem",
-                "channels": [
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
+                    },
                     {
-                        "channel_name": "Sport Klub 3 Croatia",
-                        "channel_id": "103"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Serie A2 : Verona vs Rimini",
-                "channels": [
-                    {
-                        "channel_name": "Rai Sports 1 IT",
-                        "channel_id": "882"
+                        "channel_name": "Sport Klub 1 Croatia",
+                        "channel_id": "101"
                     }
                 ]
             },
             {
                 "time": "19:00",
-                "event": "ACB : Baskonia Vitoria-Gasteiz vs. Joventut Badalona",
+                "event": "LNB : Nanterre vs Monaco",
                 "channels": [
                     {
-                        "channel_name": "ACB DAZN Spain",
-                        "channel_id": "10"
-                    },
-                    {
-                        "channel_name": "Arena 3 Premium Serbia",
-                        "channel_id": "139"
-                    },
-                    {
-                        "channel_name": "Nova Sport Bulgaria",
-                        "channel_id": "468"
-                    },
-                    {
-                        "channel_name": "Sport Klub 7 Croatia",
+                        "channel_name": "DAZN France",
                         "channel_id": "30"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "NBB : Pinheiros at Franca",
-                "channels": [
-                    {
-                        "channel_name": "ESPN BR",
-                        "channel_id": "81"
                     },
                     {
-                        "channel_name": "SporTV 2 Brasil",
-                        "channel_id": "79"
+                        "channel_name": "Sport Klub 2 Croatia",
+                        "channel_id": "102"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "Basketball LECB : Edmonton Stingers vs Montreal Alliance",
+                "time": "00:00",
+                "event": "Baloncesto Argentino Liga Nacional : Quimsa vs. Gimnasia (CR)",
                 "channels": [
                     {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
+                        "channel_name": "TYC Sports Argentina",
+                        "channel_id": "746"
                     }
                 ]
             }
         ],
         "WNBA": [
             {
-                "time": "19:00",
-                "event": "WNBA : Toronto Tempo W vs Chicago Sky W",
+                "time": "23:00",
+                "event": "WNBA : Connecticut Sun W vs New York Liberty W",
                 "channels": [
                     {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
                     },
                     {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5049"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "3033"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2026"
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "WNBA : Los Angeles Sparks W vs Portland W",
+                "event": "WNBA : Washington Mystics W vs Indiana Fever W",
                 "channels": [
                     {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
+                        "channel_name": "Monumental Sports Network",
+                        "channel_id": "778"
                     },
                     {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
+                        "channel_name": "Sky Sports Action UK",
+                        "channel_id": "37"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5054"
+                        "channel_name": "Sky Sports Main Event UK",
+                        "channel_id": "38"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2027"
+                        "channel_name": "Sky Sport Mix DE",
+                        "channel_id": "557"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WNBA : Las Vegas Aces W vs Seattle Storm W",
+                "channels": [
+                    {
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Sky Sports Action UK",
+                        "channel_id": "37"
+                    },
+                    {
+                        "channel_name": "Sky Sports Main Event UK",
+                        "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sport Mix DE",
+                        "channel_id": "557"
                     }
                 ]
             }
         ],
         "Sailing / Boating": [
             {
-                "time": "13:00",
-                "event": "WSL Tour World Surf League: 2026 WSL Championship Tour: Surf City El Salvador Pro",
+                "time": "12:30",
+                "event": "WSL Tour  World Surf League: 2026 WSL Championship Tour: Surf City El Salvador Pro",
                 "channels": [
                     {
-                        "channel_name": "Sport TV5 Poutugal",
-                        "channel_id": "290"
+                        "channel_name": "Sportv3 Brazil",
+                        "channel_id": "80"
                     },
                     {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
+                        "channel_name": "Sport TV6 Poutugal",
+                        "channel_id": "291"
                     }
                 ]
             }
@@ -4242,86 +3054,44 @@
         ],
         "Cycling": [
             {
-                "time": "11:05",
-                "event": "Tour Auvergne Rhone Alpes | Stage 1 Men | Vizille - Saint-Ismier (146.2 km)",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 1",
-                        "channel_id": "416"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 Poland",
-                        "channel_id": "58"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 Spain",
-                        "channel_id": "525"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 France",
-                        "channel_id": "773"
-                    },
-                    {
-                        "channel_name": "Eurosport 2 SE",
-                        "channel_id": "232"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 Italy",
-                        "channel_id": "879"
-                    },
-                    {
-                        "channel_name": "EuroSport 2 Greece",
-                        "channel_id": "42"
-                    },
-                    {
-                        "channel_name": "Eurosport 2 SE",
-                        "channel_id": "232"
-                    }
-                ]
-            },
-            {
                 "time": "13:00",
-                "event": "Giro d'Italia Women Stage 9 | Saluzzo (145km)",
+                "event": "Tour Auvergne Rhone Alpes | Stage 2 Men | Saint-Martin-Le-Vinoux - Le Puy-en-Velay (234.3km)",
                 "channels": [
                     {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
                     },
                     {
                         "channel_name": "SuperSport Variety 1",
                         "channel_id": "416"
                     },
                     {
-                        "channel_name": "EuroSport 2 Poland",
-                        "channel_id": "58"
+                        "channel_name": "SuperSport Grandstand",
+                        "channel_id": "412"
                     },
                     {
-                        "channel_name": "EuroSport 2 Spain",
-                        "channel_id": "525"
+                        "channel_name": "EuroSport 1 Poland",
+                        "channel_id": "57"
                     },
                     {
-                        "channel_name": "EuroSport 2 France",
-                        "channel_id": "773"
+                        "channel_name": "EuroSport 1 Spain",
+                        "channel_id": "524"
                     },
                     {
-                        "channel_name": "Eurosport 2 SE",
-                        "channel_id": "232"
+                        "channel_name": "EuroSport 1 France",
+                        "channel_id": "772"
                     },
                     {
-                        "channel_name": "EuroSport 2 Italy",
-                        "channel_id": "879"
+                        "channel_name": "Eurosport 1 SE",
+                        "channel_id": "231"
                     },
                     {
-                        "channel_name": "EuroSport 2 Greece",
-                        "channel_id": "42"
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
                     },
                     {
-                        "channel_name": "Eurosport 2 SE",
-                        "channel_id": "232"
+                        "channel_name": "EuroSport 1 Greece",
+                        "channel_id": "41"
                     }
                 ]
             }
@@ -4360,42 +3130,22 @@
         ],
         "Futsal": [
             {
-                "time": "08:00",
-                "event": "Arena World Championship",
+                "time": "16:00",
+                "event": "Ekstraklasa : Przemysl vs Piast Gliwice",
                 "channels": [
                     {
-                        "channel_name": "Arena 1 Premium Serbia",
-                        "channel_id": "134"
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "128"
                     }
                 ]
             },
             {
-                "time": "14:00",
-                "event": "Camp. Nac. Sub-19 : Sporting x Benfica",
+                "time": "17:45",
+                "event": "Futsal NBI final 4th match : Ny\u00edregyh\u00e1za vs \u00dajpest FC",
                 "channels": [
                     {
-                        "channel_name": "Canal 11 Portugal",
-                        "channel_id": "540"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "National Championship : Benfica vs. Leoes Porto Salvo",
-                "channels": [
-                    {
-                        "channel_name": "Canal 11 Portugal",
-                        "channel_id": "540"
-                    }
-                ]
-            },
-            {
-                "time": "20:25",
-                "event": "Camp. Nac : Sporting x Braga",
-                "channels": [
-                    {
-                        "channel_name": "Canal 11 Portugal",
-                        "channel_id": "540"
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "265"
                     }
                 ]
             }
@@ -4496,16 +3246,6 @@
         ],
         "Horse Racing": [
             {
-                "time": "11:45",
-                "event": "Live racing from Goodwood, Perth, Navan and Punchestown",
-                "channels": [
-                    {
-                        "channel_name": "Racing Tv UK",
-                        "channel_id": "555"
-                    }
-                ]
-            },
-            {
                 "time": "12:00",
                 "event": "Live racing from around the UK",
                 "channels": [
@@ -4516,22 +3256,12 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "America's Day At the Races",
+                "time": "12:30",
+                "event": "Live racing from Carlisle, Leicester, Pontefract and Roscommon",
                 "channels": [
                     {
-                        "channel_name": "Fox Sports 1 USA",
-                        "channel_id": "39"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "America's Day At the Races",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
+                        "channel_name": "Racing Tv UK",
+                        "channel_id": "555"
                     }
                 ]
             }
@@ -4560,9 +3290,23 @@
         ],
         "Rugby League": [
             {
-                "time": "04:00",
-                "event": "National Rugby League : Wests Tigers vs Penrith Panthers",
+                "time": "03:30",
+                "event": "NSW Cup  : Canterbury-Bankstown Bulldogs vs Parramatta Eels II",
                 "channels": [
+                    {
+                        "channel_name": "Sky Sport 1 NZ",
+                        "channel_id": "588"
+                    }
+                ]
+            },
+            {
+                "time": "06:05",
+                "event": "National Rugby League : Canterbury Bulldogs vs Parramatta Eels",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Action UK",
+                        "channel_id": "37"
+                    },
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
@@ -4572,30 +3316,8 @@
                         "channel_id": "588"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2007"
-                    },
-                    {
-                        "channel_name": "Fox Soccer Plus",
-                        "channel_id": "3083"
-                    }
-                ]
-            },
-            {
-                "time": "06:05",
-                "event": "National Rugby League : Cronulla Sharks vs St.George Illawarra",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "588"
-                    },
-                    {
-                        "channel_name": "beIN Sports 2 France",
-                        "channel_id": "117"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2008"
+                        "channel_name": "Sky Sports Main Event",
+                        "channel_id": "38"
                     }
                 ]
             }
@@ -4966,6 +3688,298 @@
                     {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - Doubles: Hertogenbosch (Netherlands) Qualifying, Grass": [
+            {
+                "time": "08:00",
+                "event": "ATP - Doubles : \ud83c\uddf8\ud83c\uddea Andre G\u00f6ransson / \ud83c\uddfa\ud83c\uddf8 Evan King vs \ud83c\uddee\ud83c\uddf3 N. Sriram Balaji / \ud83c\uddfa\ud83c\uddf8 Rajeev Ram",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - Doubles : \ud83c\udde8\ud83c\udde6 Gabriel Diallo / \ud83c\uddf5\ud83c\uddf1 Hubert Hurkacz vs \ud83c\uddee\ud83c\uddf3 Yuki Bhambri / \ud83c\uddf3\ud83c\uddff Michael Venus",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - Doubles : \ud83c\udde7\ud83c\uddea Zizou Bergs / \ud83c\uddeb\ud83c\uddf7 Arthur Rinderknech vs \ud83c\uddfa\ud83c\uddf8 Robert Galloway / \ud83c\udde6\ud83c\uddfa John Peers",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - Doubles : \ud83c\uddf3\ud83c\uddf1 Tallon Griekspoor / \ud83c\uddf3\ud83c\uddf1 Botic van de Zandschulp vs \ud83c\uddfa\ud83c\uddf8 Robert Cash / \ud83c\uddfa\ud83c\uddf8 James Tracy",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - Doubles: Stuttgart Qualifying (Germany), Grass": [
+            {
+                "time": "08:00",
+                "event": "ATP - Doubles : \ud83c\uddf5\ud83c\uddf9 Francisco Cabral / \ud83c\udded\ud83c\uddf7 Nikola Mekti\u0107 vs \ud83c\udde8\ud83c\uddf4 Nicol\u00e1s Barrientos / \ud83c\udde8\ud83c\uddff Petr Nouza",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Doubles : \ud83c\uddfa\ud83c\uddf8 Vasil Kirkov / \ud83c\uddf3\ud83c\uddf1 Lukas Miedler vs \ud83c\udde7\ud83c\uddf7 Marcelo Demoliner / \ud83c\udde7\ud83c\uddf7 Rafael Matos",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Doubles : \ud83c\udde7\ud83c\uddf7 Fernando Romboli / \ud83c\uddfa\ud83c\uddf8 Jackson Withrow vs \ud83c\udde6\ud83c\uddf7 Guido Andreozzi / \ud83c\udde6\ud83c\uddf7 Hugo Nys",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - Doubles : \ud83c\udde9\ud83c\uddea Jan Schnaitter / \ud83c\udde9\ud83c\uddea Mark Wallner vs \ud83c\uddfa\ud83c\uddf8 Taylor Fritz / \ud83c\uddfa\ud83c\uddf8 Ben Shelton",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - Doubles : \ud83c\uddeb\ud83c\uddf7 Constant Lestienne / \ud83c\uddf3\ud83c\uddf1 Robin Haase vs \ud83c\udde8\ud83c\uddff Ji\u0159\u00ed Lehe\u010dka / \ud83c\uddeb\ud83c\uddf7 Corentin Moutet",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - Doubles : \ud83c\udde9\ud83c\uddea Yannick Hanfmann / \ud83c\udde9\ud83c\uddea Jan-Lennard Struff vs \ud83c\uddf2\ud83c\uddfd Santiago Gonz\u00e1lez / \ud83c\uddf2\ud83c\uddfd Miguel \u00c1ngel Reyes-Varela",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Doubles : \ud83c\udde6\ud83c\uddfa Aleksandar Vukic / \ud83c\uddf3\ud83c\uddf1 Nicolas Jarry vs \ud83c\udde8\ud83c\udded Paul Jubb / \ud83c\udde9\ud83c\uddea R. Seggerman",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - Doubles: Hertogenbosch (Netherlands) Qualifying, Grass": [
+            {
+                "time": "12:00",
+                "event": "WTA - Doubles : \ud83c\udde7\ud83c\uddea Magali Kempen / \ud83c\udde8\ud83c\uddf3 Qianhui Tang vs \ud83c\uddef\ud83c\uddf5 Eri Hozumi / \ud83c\uddf9\ud83c\uddfc Fang-Hsien Wu",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - Doubles : \ud83c\uddfa\ud83c\udde6 Nadiia Kichenok / \ud83c\uddef\ud83c\uddf5 Makoto Ninomiya vs \ud83c\uddf3\ud83c\uddf1 Klaartje Piter / \ud83c\udde8\ud83c\uddff Anna Siskova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - Doubles:  London (United Kingdom) - Qualification, Grass": [
+            {
+                "time": "12:30",
+                "event": "WTA - Doubles : \ud83c\uddfa\ud83c\uddf8 Ingrid Neel Jovic / \ud83c\uddfa\ud83c\uddf8 Makenna Jones Kessler vs \ud83c\uddfa\ud83c\udde6 Lyudmyla Kichenok / \ud83c\uddfa\ud83c\uddf8 Desirae Krawczyk",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - Doubles : \ud83c\udde6\ud83c\uddfa Daria Jurak Schreiber / \ud83c\udde6\ud83c\uddfa Arina Rodionova Rosolska vs \ud83c\uddf8\ud83c\uddf0 Tereza Mihalikova / \ud83c\uddec\ud83c\udde7 Olivia Nicholls",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Snooker": [
+            {
+                "time": "17:00",
+                "event": "Ultimate Pool Pairs Cup | Final",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    }
+                ]
+            }
+        ],
+        "Aussie rules (AFL)": [
+            {
+                "time": "05:15",
+                "event": "AFL : Collingwood Magpiesvs  Melbourne Demons",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "FOX Sports 2 USA",
+                        "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Sky Sport 4 NZ",
+                        "channel_id": "591"
+                    }
+                ]
+            }
+        ],
+        "College Baseball": [
+            {
+                "time": "16:00",
+                "event": "College Baseball NCAA Tournament, Super Regionals: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "College Baseball NCAA Tournament, Super Regionals: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "College Baseball NCAA Tournament, Super Regionals: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "College Baseball NCAA Tournament, Super Regionals: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            }
+        ],
+        "NBA": [
+            {
+                "time": "00:30",
+                "event": "NBA : New York Knicks vs San Antonio Spurs",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "CTV 2 CA",
+                        "channel_id": "838"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "RDS CA",
+                        "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "ESPN 1 NL",
+                        "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS MENA 1",
+                        "channel_id": "91"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS MENA English 2",
+                        "channel_id": "90"
                     }
                 ]
             }
