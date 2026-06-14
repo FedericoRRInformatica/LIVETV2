@@ -1,10 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="fifaworldcupnetherlandsvsjapan" tvg-name="Soccer | FIFA World Cup : Netherlands vs Japan (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Netherlands_vs_Japan.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Netherlands vs Japan (20:00)
-https://dlhd.pk/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifaworldcupnetherlandsvsjapan" tvg-name="Soccer | FIFA World Cup : Netherlands vs Japan (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Netherlands_vs_Japan.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Netherlands vs Japan (20:00)
-https://dlhd.pk/watch.php?id=3047
-
