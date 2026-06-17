@@ -2349,7 +2349,7 @@
             },
             {
                 "time": "23:00",
-                "event": "FIFA World Cup : England vs Croatia",
+                "event": "FIFA World Cup : Ghana vs Panama",
                 "channels": [
                     {
                         "channel_name": "ITV 1 UK",
@@ -2358,6 +2358,10 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "39"
+                    },
+                    {
+                        "channel_name": "RPC Panama",
+                        "channel_id": "19"
                     },
                     {
                         "channel_name": "RTE 2 Ireland",
@@ -5289,6 +5293,22 @@
                 "time": "12:00",
                 "event": "PDC Darts Players Championships 21-22 - Robin Park Leisure Centre, Wigan",
                 "channels": [
+                    {
+                        "channel_name": "Darts borad 1",
+                        "channel_id": "224"
+                    },
+                    {
+                        "channel_name": "Darts borad 2",
+                        "channel_id": "225"
+                    },
+                    {
+                        "channel_name": "Darts borad 3",
+                        "channel_id": "226"
+                    },
+                    {
+                        "channel_name": "Darts borad 4",
+                        "channel_id": "227"
+                    },
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
