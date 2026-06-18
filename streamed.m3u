@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhIgpAY2AQQiEPJEgawkDE0gF48ZJAyQKY8BpZVWRROmk1OlOXEChIptnphCwJLhmOhMG5OcWFSegIJciCVMgggA.webp" tvg-name="Football | Czechia vs. South Africa | 16:00 (English - TSN)" group-title="Eventi Live STREAMED",Football | Czechia vs. South Africa | 16:00 (English - TSN)
-https://embed.st/embed/admin/ppv-czechia-vs-south-africa/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp" tvg-name="Cricket | England vs. New Zealand | 10:00 (English - Sky Sport 1 NZ)" group-title="Eventi Live STREAMED",Cricket | England vs. New Zealand | 10:00 (English - Sky Sport 1 NZ)
-https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | ATP / WTA: Halle / Berlin 🎾 | 09:30 ()" group-title="Eventi Live STREAMED",Other | ATP / WTA: Halle / Berlin 🎾 | 09:30 ()
-https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimCzNSECHkheILHsMhpIGJetXpLJBSwi5jFGFWaO78o2pzN+KzAYO7iYhBAA.webp" tvg-name="Football | Switzerland vs Bosnia-Herzegovina | 19:00 (English - TSN)" group-title="Eventi Live STREAMED",Football | Switzerland vs Bosnia-Herzegovina | 19:00 (English - TSN)
+https://embed.st/embed/admin/ppv-switzerland-vs-bosnia-herzegovina/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgeIFM10huIPhpAxcBlMYtSCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp" tvg-name="Baseball | Texas Rangers vs Minnesota Twins | 18:35 (English - Twins.TV)" group-title="Eventi Live STREAMED",Baseball | Texas Rangers vs Minnesota Twins | 18:35 (English - Twins.TV)
+https://embed.st/embed/admin/ppv-minnesota-twins-vs-texas-rangers/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRhRSOmCQhuIDSBAxcmyxpwoCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp" tvg-name="Baseball | Milwaukee Brewers vs Cleveland Guardians | 18:10 (English - Brewers.TV)" group-title="Eventi Live STREAMED",Baseball | Milwaukee Brewers vs Cleveland Guardians | 18:10 (English - Brewers.TV)
+https://embed.st/embed/admin/ppv-cleveland-guardians-vs-milwaukee-brewers/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Rugby | Hull K R vs York Knights | 19:00 ()" group-title="Eventi Live STREAMED",Rugby | Hull K R vs York Knights | 19:00 ()
+https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGD7UkIKbBDcQfECZi4QKC0ZCIJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Baseball | Boston Red Sox vs Toronto Blue Jays | 17:35 (English - NESN)" group-title="Eventi Live STREAMED",Baseball | Boston Red Sox vs Toronto Blue Jays | 17:35 (English - NESN)
+https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | U.S. Open Championship | 14:00 ()" group-title="Eventi Live STREAMED",Other | U.S. Open Championship | 14:00 ()
 https://embed.st/embed/echo/us-open-championship-atp1000/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp" tvg-name="Cricket | England vs. New Zealand | 10:00 (English - Sky Sport 1 NZ)" group-title="Eventi Live STREAMED",Cricket | England vs. New Zealand | 10:00 (English - Sky Sport 1 NZ)
+https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Nascar Cup Series 2026 - Coca-Cola 600 | 08:43 (English)" group-title="Eventi Live STREAMED",Motor-sports | Nascar Cup Series 2026 - Coca-Cola 600 | 08:43 (English)
 https://embed.st/embed/delta/live-event_nascar-cup-series-2026-coca-cola-600-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" tvg-name="Cricket | Willow Cricket |  (English)" group-title="Eventi Live STREAMED",Cricket | Willow Cricket |  (English)
@@ -17,16 +23,6 @@ https://embed.st/embed/admin/admin-sky-sports-tennis/1
 https://embed.st/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGD7UkIKbBDcQfECZi4QKC0ZCIJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Baseball | Boston Red Sox vs Toronto Blue Jays | 17:35 (English - NESN)" group-title="Eventi Live STREAMED",Baseball | Boston Red Sox vs Toronto Blue Jays | 17:35 (English - NESN)
-https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRhRSOmCQhuIDSBAxcmyxpwoCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp" tvg-name="Baseball | Milwaukee Brewers vs Cleveland Guardians | 18:10 (English - Brewers.TV)" group-title="Eventi Live STREAMED",Baseball | Milwaukee Brewers vs Cleveland Guardians | 18:10 (English - Brewers.TV)
-https://embed.st/embed/admin/ppv-cleveland-guardians-vs-milwaukee-brewers/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgeIFM10huIPhpAxcBlMYtSCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp" tvg-name="Baseball | Texas Rangers vs Minnesota Twins | 18:35 (English - Twins.TV)" group-title="Eventi Live STREAMED",Baseball | Texas Rangers vs Minnesota Twins | 18:35 (English - Twins.TV)
-https://embed.st/embed/admin/ppv-minnesota-twins-vs-texas-rangers/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Rugby | Hull K R vs York Knights | 19:00 ()" group-title="Eventi Live STREAMED",Rugby | Hull K R vs York Knights | 19:00 ()
-https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimCzNSECHkheILHsMhpIGJetXpLJBSwi5jFGFWaO78o2pzN+KzAYO7iYhBAA.webp" tvg-name="Football | Switzerland vs Bosnia-Herzegovina | 19:00 (English - TSN)" group-title="Eventi Live STREAMED",Football | Switzerland vs Bosnia-Herzegovina | 19:00 (English - TSN)
-https://embed.st/embed/admin/ppv-switzerland-vs-bosnia-herzegovina/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAFIQiKSBghumjftwgU54zj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Baseball | Seattle Mariners vs Baltimore Orioles | 20:10 (English - Mariners.TV)" group-title="Eventi Live STREAMED",Baseball | Seattle Mariners vs Baltimore Orioles | 20:10 (English - Mariners.TV)
 https://embed.st/embed/admin/ppv-baltimore-orioles-vs-seattle-mariners/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Football | Canada vs Qatar | 22:00 (English - TSN)" group-title="Eventi Live STREAMED",Football | Canada vs Qatar | 22:00 (English - TSN)
