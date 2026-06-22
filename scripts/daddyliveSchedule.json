@@ -1,5 +1,27 @@
 {
     "Monday 22nd June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "Wild Thing Kart Series Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Late Models Peoria",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "22"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
