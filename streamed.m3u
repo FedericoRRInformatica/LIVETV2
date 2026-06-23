@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Nascar Cup Series 2026 - Anduril 250 | 08:45 (English)" group-title="Eventi Live STREAMED",Motor-sports | Nascar Cup Series 2026 - Anduril 250 | 08:45 (English)
-https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | 2026 PFL MENA 2: Jeddah | 15:00 (English)" group-title="Eventi Live STREAMED",Fight | 2026 PFL MENA 2: Jeddah | 15:00 (English)
-https://embed.st/embed/delta/live-event_2026-pfl-mena-2-jeddah-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | ATP / WTA: Bad Homburg / Mallorca 🎾 | 09:30 ()" group-title="Eventi Live STREAMED",Tennis | ATP / WTA: Bad Homburg / Mallorca 🎾 | 09:30 ()
 https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | 2026 PFL MENA 2: Jeddah | 15:00 (English)" group-title="Eventi Live STREAMED",Fight | 2026 PFL MENA 2: Jeddah | 15:00 (English)
+https://embed.st/embed/delta/live-event_2026-pfl-mena-2-jeddah-live-stream/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Nascar Cup Series 2026 - Anduril 250 | 08:45 (English)" group-title="Eventi Live STREAMED",Motor-sports | Nascar Cup Series 2026 - Anduril 250 | 08:45 (English)
+https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAx1sIPmF4gQ3HcZIgYIUwcSnGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" tvg-name="Football | Portugal vs Uzbekistan | 17:00 (English)" group-title="Eventi Live STREAMED",Football | Portugal vs Uzbekistan | 17:00 (English)
 https://embed.st/embed/delta/live_world-championship-gr-k_portugal-uzbekistan-live-streaming-1243793961/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiFH0tYDdxB8DmkDGMgQiDTALAkFPsNn0Uutii67y9LLPdNaYK7adEA.webp" tvg-name="Football | England vs Ghana | 20:00 (English)" group-title="Eventi Live STREAMED",Football | England vs Ghana | 20:00 (English)
-https://embed.st/embed/golf/23323/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VesApsZibiD4hDMXCBSn9h-QWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" tvg-name="Baseball | Toronto Blue Jays vs Houston Astros | 20:07 (English)" group-title="Eventi Live STREAMED",Baseball | Toronto Blue Jays vs Houston Astros | 20:07 (English)
-https://embed.st/embed/golf/23348/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHD0ZiPiG4g9IEDFwgU5w5akFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Baseball | Detroit Tigers vs New York Yankees | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Detroit Tigers vs New York Yankees | 22:40 (English)
-https://embed.st/embed/golf/23350/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFFUlYECG4g+ekDFwgU5w5YVMkFPsNn0Umtii6by9LLPdNaYK70ohBAA.webp" tvg-name="Baseball | Miami Marlins vs Texas Rangers | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Miami Marlins vs Texas Rangers | 22:40 (English)
-https://embed.st/embed/golf/23352/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLPxB8w3SCBQhuWkCZi59FviZMFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp" tvg-name="Baseball | Tampa Bay Rays vs Kansas City Royals | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Tampa Bay Rays vs Kansas City Royals | 22:40 (English)
-https://embed.st/embed/golf/23349/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGCRhRABk0IQ3EHxCmYuECkvHTIEgWBaY-YbPoptbFF23l6WWW8mWjBPelEIIA.webp" tvg-name="Baseball | Pittsburgh Pirates vs Seattle Mariners | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Pittsburgh Pirates vs Seattle Mariners | 22:40 (English)
-https://embed.st/embed/golf/23351/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACUYFJxAatBkDFwgU5owakFgSCn2Gz6OlXrZgy8Illl6mtGCeYqIQQA.webp" tvg-name="Baseball | Washington Nationals vs Philadelphia Phillies | 22:45 (English)" group-title="Eventi Live STREAMED",Baseball | Washington Nationals vs Philadelphia Phillies | 22:45 (English)
-https://embed.st/embed/golf/23353/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiFH0tYDdxB8DmkDGMgQiDTALAkFPsNn0Uutii67y9LLPdNaYK7adEA.webp" tvg-name="Football | England vs Ghana | 20:00 ()" group-title="Eventi Live STREAMED",Football | England vs Ghana | 20:00 ()
+https://embed.st/embed/echo/england-vs-ghana-football-1489402/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VesApsZibiD4hDMXCBSn9h-QWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" tvg-name="Baseball | Toronto Blue Jays vs Houston Astros | 20:07 ()" group-title="Eventi Live STREAMED",Baseball | Toronto Blue Jays vs Houston Astros | 20:07 ()
+https://embed.st/embed/echo/toronto-blue-jays-vs-houston-astros-baseball-179192/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHD0ZiPiG4g9IEDFwgU5w5akFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Baseball | Detroit Tigers vs New York Yankees | 22:40 ()" group-title="Eventi Live STREAMED",Baseball | Detroit Tigers vs New York Yankees | 22:40 ()
+https://embed.st/embed/echo/detroit-tigers-vs-new-york-yankees-baseball-179201/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFFUlYECG4g+ekDFwgU5w5YVMkFPsNn0Umtii6by9LLPdNaYK70ohBAA.webp" tvg-name="Baseball | Miami Marlins vs Texas Rangers | 22:40 ()" group-title="Eventi Live STREAMED",Baseball | Miami Marlins vs Texas Rangers | 22:40 ()
+https://embed.st/embed/echo/miami-marlins-vs-texas-rangers-baseball-179199/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLPxB8w3SCBQhuWkCZi59FviZMFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp" tvg-name="Baseball | Tampa Bay Rays vs Kansas City Royals | 22:40 ()" group-title="Eventi Live STREAMED",Baseball | Tampa Bay Rays vs Kansas City Royals | 22:40 ()
+https://embed.st/embed/echo/tampa-bay-rays-vs-kansas-city-royals-baseball-179193/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGCRhRABk0IQ3EHxCmYuECkvHTIEgWBaY-YbPoptbFF23l6WWW8mWjBPelEIIA.webp" tvg-name="Baseball | Pittsburgh Pirates vs Seattle Mariners | 22:40 ()" group-title="Eventi Live STREAMED",Baseball | Pittsburgh Pirates vs Seattle Mariners | 22:40 ()
+https://embed.st/embed/echo/pittsburgh-pirates-vs-seattle-mariners-baseball-179190/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACUYFJxAatBkDFwgU5owakFgSCn2Gz6OlXrZgy8Illl6mtGCeYqIQQA.webp" tvg-name="Baseball | Washington Nationals vs Philadelphia Phillies | 22:45 ()" group-title="Eventi Live STREAMED",Baseball | Washington Nationals vs Philadelphia Phillies | 22:45 ()
+https://embed.st/embed/echo/washington-nationals-vs-philadelphia-phillies-baseball-179191/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH1wNmDEBBDcNRkiBggTIEIhMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Football | Panama vs Croatia | 23:00 (English)" group-title="Eventi Live STREAMED",Football | Panama vs Croatia | 23:00 (English)
 https://embed.st/embed/golf/23324/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGG5gklENxAk9IPiFMxcIFJePX4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" tvg-name="Baseball | New York Mets vs Chicago Cubs | 23:10 (English)" group-title="Eventi Live STREAMED",Baseball | New York Mets vs Chicago Cubs | 23:10 (English)
