@@ -1,20 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="DAZN.Mundial.2.es" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-mundial-2-es.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (DAZN Mundial 2 es)
-https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20Mundial%202%20es&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Servus.TV.HD.AT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/servus-tv-hd-at.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (Servus TV HD AT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Servus%20TV%20HD%20AT&code=at&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Duna.World.HD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/duna-world-hd-hu.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (Duna World HD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Duna%20World%20HD%20HU&code=hu&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NPO1.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/npo1-fhd-nl.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (NPO1 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO1%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ČT.sport.HD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/t-sport-hd-cz.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (ČT sport HD CZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%C4%8CT%20sport%20HD%20CZ&code=cz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (FUSSBALL TV 2 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FUSSBALL%20TV%202%20FHD%20DE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/belgium/tipik-fhd-be.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=be&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ERT.1.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-1-hd-gr.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (ERT 1 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%201%20HD%20GR&code=gr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TV2.Sport.X.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport-x-hd-dk.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (TV2 Sport X HD DK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X%20HD%20DK&code=dk&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BNT.3.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-3-hd-bg.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (BNT 3 HD BG)
@@ -23,18 +13,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%203%20HD%20BG&code=bg&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%202%20FHD%20TR&code=sa&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="M6.FHD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (M6 FHD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ITV.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (ITV 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TV4.HD.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-06-25 19:00 - FIFA World Cup - Curaçao vs Côte d'Ivoire (TV4 HD SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two Northern Ireland HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two FHD NL)
@@ -43,16 +27,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20NL&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Canvas FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Sport TV 5 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Sport TV 5 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Canvas FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (Nbc Universo FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TU.Universo.TV.HD.CO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TU Universo TV HD CO)
@@ -61,18 +39,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TU%20Universo%20TV%20HD%20CO&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20VICELAND%20MELBOURNE%20HD%20AU&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="VRT.Canvas.[Dutch]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (VRT Canvas [Dutch])
 https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (RDS CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ORF.1.FHD.AT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/orf-1-fhd-at.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (ORF 1 FHD AT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%201%20FHD%20AT&code=at&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SIC.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sic-hd-pt.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (SIC HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SIC%20HD%20PT&code=pt&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-1-fhd-pl.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="M6.FHD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (M6 FHD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="RTS.1.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/rts-1-fhd-rs.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (RTS 1 FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RTS%201%20FHD%20RS&code=rs&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NPO.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/npo-3-fhd-nl.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (NPO 3 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%203%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Antena.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/antena-1-fhd-ro.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (Antena 1 FHD RO)
@@ -81,12 +47,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Antena%201%20FHD%20RO&code=ro&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20DK&code=dk&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SVT1.HD.(B).SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/svt1-hd-b-se.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (SVT1 HD (B) SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SVT1%20HD%20(B)%20SE&code=se&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (ERT 2 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="HRT.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (HRT 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BNT.1.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-1-hd-bg.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (BNT 1 HD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%201%20HD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telefe.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/telefe-hd-arg.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (Telefe HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telefe%20HD%20ARG&code=ar&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (Sport 1 HD IL)
@@ -95,58 +57,34 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO1%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (RDS CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="M6.FHD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (M6 FHD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (FUSSBALL TV 2 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FUSSBALL%20TV%202%20FHD%20DE&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ČT.sport.HD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/t-sport-hd-cz.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (ČT sport HD CZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%C4%8CT%20sport%20HD%20CZ&code=cz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ERT.1.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-1-hd-gr.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (ERT 1 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%201%20HD%20GR&code=gr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="HRT.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (HRT 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="DR.2.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/dr-2-hd-dk.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (DR 2 HD DK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DR%202%20HD%20DK&code=dk&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SVT2.HD.(B).SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/svt2-hd-b-se.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (SVT2 HD (B) SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SVT2%20HD%20(B)%20SE&code=se&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BNT.1.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-1-hd-bg.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (BNT 1 HD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%201%20HD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-max-3-english.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (beIN SPORTS MAX 3 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%203%20%5BEnglish%5D&code=sa&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (Sport 1 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SVT1.HD.(B).SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/svt1-hd-b-se.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (SVT1 HD (B) SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SVT1%20HD%20(B)%20SE&code=se&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-1-fhd-pl.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Duna.World.HD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/duna-world-hd-hu.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (Duna World HD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Duna%20World%20HD%20HU&code=hu&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="DAZN.Mundial.2.es" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-mundial-2-es.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (DAZN Mundial 2 es)
-https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20Mundial%202%20es&code=es&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NPO.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/npo-3-fhd-nl.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (NPO 3 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%203%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Antena.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/antena-1-fhd-ro.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (Antena 1 FHD RO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Antena%201%20FHD%20RO&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ORF.1.FHD.AT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/orf-1-fhd-at.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (ORF 1 FHD AT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%201%20FHD%20AT&code=at&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/belgium/tipik-fhd-be.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=be&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BNT.3.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-3-hd-bg.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BNT 3 HD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%203%20HD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="DR.1.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/dr-1-hd-dk.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (DR 1 HD DK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20DK&code=dk&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (ERT 2 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-max-4-hd-fr.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (beIN Sports Max 4 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=sa&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Das.Erste.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Das Erste HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Das%20Erste%20HD%20DE&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Canvas HD NL)
@@ -163,8 +101,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Canvas FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Nbc Universo FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TU.Universo.TV.HD.CO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TU Universo TV HD CO)
@@ -189,14 +125,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NPO.1.Extra.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (NPO 1 Extra FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TVP 1 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Sport TV 5 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Sport TV 5 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ERT.2.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (ERT 2 GR)
@@ -227,6 +157,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (Telemundo Dallas FHD LAM)
@@ -249,8 +181,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SBS.VICELAND.MELBOURNE.HD.AU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (SBS VICELAND MELBOURNE HD AU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20VICELAND%20MELBOURNE%20HD%20AU&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 1 [English])
@@ -267,10 +197,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=s
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NPO.1.Extra.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (NPO 1 Extra FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TVP 1 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Sport TV 1 HD PT)
@@ -309,6 +235,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (Telemundo Dallas FHD LAM)
@@ -367,10 +295,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CTV.Vancouver.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CTV Vancouver CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.TORONTO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV TORONTO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV Calgary)
@@ -387,8 +311,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20HD%20NL&code=&user=st
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (Sport TV 5 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (Sport TV 5 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (Canvas FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.3.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (Arena Sport 3 Premium RS)
@@ -403,8 +325,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20VICELAND%20MELBOURNE%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ITV4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (ITV4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=ITV4%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Cape Verde vs Saudi Arabia (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ITV4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Cape Verde vs Saudi Arabia (ITV4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=ITV4%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Uruguay vs Spain (LiveNOW from FOX US)
@@ -433,18 +353,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TELEVEN.(SDT).VE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Uruguay vs Spain (TELEVEN (SDT) VE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEVEN%20(SDT)%20VE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Uruguay vs Spain (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Uruguay vs Spain (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 00:00 - FIFA World Cup - Uruguay vs Spain (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two Northern Ireland HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two FHD NL)
@@ -453,8 +369,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20NL&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Canvas FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Tipik FHD BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Sport TV 1 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Sport TV 1 HD PT)
@@ -467,8 +381,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=s
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Yle.TV2.HD.FI" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Yle TV2 HD FI)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.1.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Sport 1 IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20IL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (Nbc Universo FHD LAM)
@@ -509,16 +421,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20East%20Midlands%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One West Midlands UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Wales.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One Wales FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Sport TV 5 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Sport TV 5 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Arena Sport 1 Premium RS)
@@ -535,6 +443,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (Telemundo Dallas FHD LAM)
@@ -557,28 +467,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (Canvas HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (Canvas FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (TVP 1 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (Canvas FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canvas%20FHD%20BE&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (Nbc Universo FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TELEVEN.(SDT).VE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (TELEVEN (SDT) VE)
@@ -639,8 +539,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Sport TV 5 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Sport TV 5 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Arena Sport 1 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TELEMUNDO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (TELEMUNDO)
@@ -657,6 +555,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Telemundo Dallas FHD LAM)
@@ -677,8 +577,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2051%20Fl.%20HD%20MX
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20HD%20MX&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Noticias.HD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (Telemundo Noticias HD MX)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Panama vs England (TSN 1 [English])
@@ -743,8 +641,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20East%20Midlands%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One West Midlands UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Wales.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One Wales FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="LA.1.ES.[Multi-Audio&Sub]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (LA 1 ES [Multi-Audio&Sub])
@@ -755,8 +651,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=LA%201%20FHD%20ES&code=&user=s
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20NL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (TVP 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (TVP 1 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="RTP.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (RTP 1 HD PT)
@@ -781,6 +675,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (Telemundo Dallas FHD LAM)
@@ -803,20 +699,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="RTP.1.[Portuguese]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (RTP 1 [Portuguese])
 https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20%5BPortuguese%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two Northern Ireland HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two FHD NL)
@@ -835,12 +727,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TU%20Universo%20TV%20HD%20CO&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20VICELAND%20MELBOURNE%20HD%20AU&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="VRT.Canvas.[Dutch]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (VRT Canvas [Dutch])
 https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (TSN 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two Northern Ireland HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20NL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two FHD NL)
@@ -923,8 +813,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20East%20Midlands%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One West Midlands UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Wales.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One Wales FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One HD NL)
@@ -957,6 +845,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LA
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (Telemundo Los Angeles FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (Telemundo International LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (Telemundo Fresno FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (Telemundo Dallas FHD LAM)
@@ -979,8 +869,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (TSN 5 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (TSN 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (TSN 3 [English])
@@ -997,6 +885,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-06-25 23:10 - MLB - New York Mets vs Chicago Cubs (SportsNet New York FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-06-25 23:10 - MLB - Boston Red Sox vs New York Yankees (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NESN+.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-hd-us.webp",[MLB] 2026-06-25 23:10 - MLB - Boston Red Sox vs New York Yankees (NESN+ HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=us&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4-hd-fr.webp",[MLB] 2026-06-25 23:10 - MLB - Boston Red Sox vs New York Yankees (beIN Sports Max 4 HD FR)
@@ -1013,10 +903,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=s
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.4.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 4 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 4 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.4.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 4 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 17:35 - MLB - Boston Red Sox vs Tampa Bay Rays (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 18:10 - MLB - Chicago White Sox vs Atlanta Braves (ESPN 2 US)
@@ -1029,6 +923,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (TNT Sports 2 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Fox.Deportes.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (Fox Deportes FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (Fox Deportes HD CHL)
@@ -1071,6 +967,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Movistar.Deportes.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-fhd.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Movistar Deportes FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%20FHD&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2-fhd.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Movistar Deportes 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%202%20FHD&code=es&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Max Sport 2 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Max.Sport.3.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-3-fhd-bg.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Max Sport 3 FHD BG)
@@ -1081,6 +979,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202%20FHD%20RO&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204%20FHD%20RO&code=ro&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ESPN.2.FHD.AU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-fhd-au.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (ESPN 2 FHD AU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20AU&code=ar&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.Sports.1.AU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1-au.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (beIN Sports 1 AU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%201%20AU&code=au&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Cytavision.Sports.5.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-5-hd-cy.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Cytavision Sports 5 HD CY)
@@ -1091,6 +991,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-1-fhd-pl.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Polsat Sport Premium 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Polsat Sport 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2-fhd-pl.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sportklub.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-2-fhd-hr.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Sportklub 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%202%20FHD%20HR&code=hr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sportklub.4.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-4-fhd-hr.webp",[Tennis] 2026-06-25 08:00 - Tennis -  vs  (Sportklub 4 FHD HR)
@@ -1169,30 +1073,26 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20AU&code=ar&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.2.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2-fhd-pt.webp",[Motorsport] 2026-06-25 05:00 - Motorsport -  vs  (Sport TV 2 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%202%20FHD%20PT&code=pt&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.4.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-4-fhd-bg.webp",[Motorsport] 2026-06-25 05:00 - Motorsport -  vs  (Max Sport 4 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-25 05:00 - Motorsport -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-25 05:00 - Motorsport -  vs  (Cosmote Sport 5 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-06-25 12:00 - Formula 1 Drivers Press Conference -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3-fhd-nl.webp",[Motorsport] 2026-06-25 13:00 - Motorsport -  vs  (Ziggo Sport 3 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&code=nl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Motowizja.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Motowizja FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TV12.HD.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv12-hd-se.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (TV12 HD SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV12%20HD%20SE&code=se&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.2.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2-fhd-pt.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Sport TV 2 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%202%20FHD%20PT&code=pt&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.4.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-4-fhd-bg.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Max Sport 4 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Cosmote Sport 5 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sportklub.3.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-3-fhd-hr.webp",[Motorsport] 2026-06-25 15:00 - Motorsport -  vs  (Sportklub 3 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%203%20FHD%20HR&code=hr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5-fhd-pl.webp",[Motorsport] 2026-06-25 15:30 - Speedway: Metalkas 2. Ekstraliga - INNPRO ROW Rybnik vs H. Skrzydlewska Orzeł Łódź (Canal+ Sport 5 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3-fhd-nl.webp",[Motorsport] 2026-06-25 16:30 - Motorsport -  vs  (Ziggo Sport 3 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&code=nl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.3.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-26 11:30 - Formula 1 -  vs  (Sky Sport 3 NZ)
@@ -1203,8 +1103,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%203%20NZ&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204%20NZ&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.4.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-27 14:00 - Formula 1 -  vs  (Sky Sport 4 NZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204%20NZ&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-06-28 13:00 - Formula 1 -  vs  (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (NETFLIX HORROR 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20HORROR%201&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (NETFLIX HORROR 2)
@@ -1283,6 +1181,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Movies%202%20RS&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Movies%203%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Netflix.Movies.4.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (Netflix Movies 4 RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Movies%204%20RS&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E01" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E01)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E01&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E02)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E02&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E05" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E05)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E05&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E07)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E07&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E08" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E08)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E08&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E09" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E09)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E09&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-06-27 17:00 - WWE -  vs  (The Netflix Afterparty - S01E10)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E10&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports.Cricket.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-25 09:00 - 3rd Test Day-1 - England vs New Zealand (Sky Sports Cricket FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Cricket] 2026-06-25 09:00 - 3rd Test Day-1 - England vs New Zealand (Sky Sport 1 NZ)
@@ -1295,16 +1207,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ASTRO.CRICKET.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-25 13:30 - ICC Womens T20 World Cup - Bangladesh Cricket Women vs India Cricket Women (ASTRO CRICKET HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-06-25 13:30 - ICC Womens T20 World Cup - Bangladesh Cricket Women vs India Cricket Women (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports.Cricket.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-25 17:30 - ICC Womens T20 World Cup - Netherlands Cricket Women vs South Africa Cricket Women (Sky Sports Cricket FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="ASTRO.CRICKET.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-25 17:30 - ICC Womens T20 World Cup - Netherlands Cricket Women vs South Africa Cricket Women (ASTRO CRICKET HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-fhd-uk.webp",[Cricket] 2026-06-25 17:30 - ICC Womens T20 World Cup - Netherlands Cricket Women vs South Africa Cricket Women (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-06-25 17:30 - ICC Womens T20 World Cup - Netherlands Cricket Women vs South Africa Cricket Women (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-27 17:30 - ICC Womens T20 World Cup - England Cricket Women vs New Zealand Cricket Women (Sky Sports Main Event UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-27 17:30 - ICC Womens T20 World Cup - England Cricket Women vs New Zealand Cricket Women (Sky Sports Main Event HD UK)
@@ -1325,8 +1233,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-27 17:30 - ICC Womens T20 World Cup - England Cricket Women vs New Zealand Cricket Women (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-27 17:30 - ICC Womens T20 World Cup - England Cricket Women vs New Zealand Cricket Women (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports+.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-28 13:30 - ICC Womens T20 World Cup - Australia Cricket Women vs India Cricket Women (Sky Sports+ UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sports+.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-06-28 13:30 - ICC Womens T20 World Cup - Australia Cricket Women vs India Cricket Women (Sky Sports+ HD UK)
@@ -1341,36 +1247,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=f
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Cycling] 2026-06-25 12:00 - Cycling -  vs  (Eurosport 1 GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Premium 1 HD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20HD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Premium 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Premium 2 HD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Extra 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Extra 4 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Belgium Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-24 18:30 - FIVB Volleyball Mens Nations League - France Volleyball vs Iran Volleyball (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-06-25 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Turkey Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sportklub.3.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-3-fhd-hr.webp",[Volleyball] 2026-06-25 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Turkey Volleyball (Sportklub 3 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%203%20FHD%20HR&code=hr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-06-25 18:00 - FIVB Volleyball Mens Nations League - Poland Volleyball vs Turkey Volleyball (Polsat Sport 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2-fhd-pl.webp",[Volleyball] 2026-06-25 18:30 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Bulgaria Volleyball (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-06-25 18:30 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Bulgaria Volleyball (Sportklub 1 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 14:30 - FIVB Volleyball Mens Nations League - China Volleyball vs Argentina Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Canada Volleyball (Polsat Sport Premium 2 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Canada Volleyball (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Canada Volleyball (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Fight FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Premium 1 HD PL)
@@ -1379,16 +1271,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Premium 2 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Extra 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 15:00 - FIVB Volleyball Mens Nations League - Iran Volleyball vs Japan Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Belgium Volleyball vs Germany Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Fight FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Premium 1 HD PL)
@@ -1397,22 +1293,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Premium 2 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Extra 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Italy Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-26 18:30 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Cuba Volleyball (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-27 15:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Japan Volleyball (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-27 18:30 - FIVB Volleyball Mens Nations League - France Volleyball vs Serbia Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-27 18:30 - FIVB Volleyball Mens Nations League - France Volleyball vs Serbia Volleyball (Arena Sport 2 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.3.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-27 18:30 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Brazil Volleyball (Arena Sport 3 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-28 11:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs Ukraine Volleyball (Polsat Sport 3 FHD PL)
@@ -1421,8 +1311,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-06-28 18:30 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Italy Volleyball (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Darts] 2026-06-25 22:00 - Darts -  vs  (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5-fhd-pl.webp",[Darts] 2026-06-25 22:00 - Darts -  vs  (Canal+ Sport 5 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Canal.11.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11-pt.webp",[Futsal] 2026-06-25 09:00 - Women's Futsal Under-17 National Team - Spain vs Portugal (Canal 11 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Canal.11.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11-pt.webp",[Futsal] 2026-06-25 18:30 - Liga SportZone - Sporting vs Benfica (Canal 11 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Racing.TV.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp",[Horse Racing] 2026-06-25 11:15 - Horse Racing -  vs  (Racing TV FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Fox.Sports.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-2-fhd-us.webp",[Horse Racing] 2026-06-25 16:00 - Horse Racing -  vs  (Fox Sports 2 FHD US)
