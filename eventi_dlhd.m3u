@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/c/cc/Germany_Regions_02.png/525px-Germany_Regions_02.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)
+#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://content.api.news/v3/images/bin/e6a6954be2136d87798ade53faa0bdb1" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)
 https://dlhd.pk/watch.php?id=850
 
-#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/c/cc/Germany_Regions_02.png/525px-Germany_Regions_02.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)
+#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ecuador_vs_Germany.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇪🇨 Ecuador vs 🇩🇪 Germany Jun 25 🏆 | FIFA World Cup : Ecuador vs Germany (20:00)
 https://dlhd.pk/watch.php?id=262
 
 #EXTINF:-1 tvg-id="fifaworldcupjapanvssweden" tvg-name="⚽ FIFA World Cup 2026 — 🇯🇵 Japan vs 🇸🇪 Sweden Jun 25 🏆 | FIFA World Cup : Japan vs Sweden (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Japan_vs_Sweden.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇯🇵 Japan vs 🇸🇪 Sweden Jun 25 🏆 | FIFA World Cup : Japan vs Sweden (23:00)
@@ -14,13 +14,13 @@ https://dlhd.pk/watch.php?id=262
 #EXTINF:-1 tvg-id="fifaworldcupcuraçaovscôtedivoire" tvg-name="All Soccer Events | FIFA World Cup : Curaçao vs Côte d'Ivoire (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Curaçao_vs_Côte d'Ivoire.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Curaçao vs Côte d'Ivoire (20:00)
 https://dlhd.pk/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/c/cc/Germany_Regions_02.png/525px-Germany_Regions_02.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
+#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ecuador_vs_Germany.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
 https://dlhd.pk/watch.php?id=850
 
-#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/c/cc/Germany_Regions_02.png/525px-Germany_Regions_02.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
+#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ecuador_vs_Germany.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/c/cc/Germany_Regions_02.png/525px-Germany_Regions_02.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
+#EXTINF:-1 tvg-id="fifaworldcupecuadorvsgermany" tvg-name="All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ecuador_vs_Germany.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Ecuador vs Germany (20:00)
 https://dlhd.pk/watch.php?id=3047
 
 #EXTINF:-1 tvg-id="fifaworldcuptunisiavsnetherlands" tvg-name="All Soccer Events | FIFA World Cup : Tunisia vs Netherlands (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Tunisia_vs_Netherlands.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Tunisia vs Netherlands (23:00)
@@ -32,12 +32,9 @@ https://dlhd.pk/watch.php?id=262
 #EXTINF:-1 tvg-id="fifaworldcupjapanvssweden" tvg-name="All Soccer Events | FIFA World Cup : Japan vs Sweden (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Japan_vs_Sweden.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Japan vs Sweden (23:00)
 https://dlhd.pk/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="frenchchampionshipseliteindividualtimetrialwomenaostalatourdupinitt297km" tvg-name="Cycling | French Championships | Elite Individual Time Trial (Women) Aosta – La Tour du Pin (ITT – 29.7km) (11:00)" tvg-logo="https://logospng.org/wp-content/uploads/santander.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Individual Time Trial (Women) Aosta – La Tour du Pin (ITT – 29.7km) (11:00)
+#EXTINF:-1 tvg-id="frenchchampionshipseliteindividualtimetrialmenaostalatourdupinitt279km" tvg-name="Cycling | French Championships | Elite Individual Time Trial (Men) Aosta – La Tour du Pin (ITT – 27.9km) (13:00)" tvg-logo="https://s.alicdn.com/@sc04/kf/H26692e7e178649a2a3f9f6e6a7927437q.png_720x720q50.jpg" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Individual Time Trial (Men) Aosta – La Tour du Pin (ITT – 27.9km) (13:00)
 https://dlhd.pk/watch.php?id=878
 
-#EXTINF:-1 tvg-id="frenchchampionshipseliteindividualtimetrialmenaostalatourdupinitt279km" tvg-name="Cycling | French Championships | Elite Individual Time Trial (Men) Aosta – La Tour du Pin (ITT – 27.9km) (13:00)" tvg-logo="https://cdn.jdpower.com/ChromeImageGallery/Expanded/Transparent/640/2010MIN003a_640/2010MIN003a_640_20.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Individual Time Trial (Men) Aosta – La Tour du Pin (ITT – 27.9km) (13:00)
-https://dlhd.pk/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldaquaticsopenwatersetubalworldcupstage4part2" tvg-name="Water Sport | World Aquatics Open Water. Setubal World Cup - Stage 4 (Part 2) (14:00)" tvg-logo="https://aprendeencasa.sep.gob.mx/multimedia/B64images/202204/B64-IMG-wHJUlHJzaG-yXT6CE5PTO.png" group-title="Eventi Live DLHD",Water Sport | World Aquatics Open Water. Setubal World Cup - Stage 4 (Part 2) (14:00)
+#EXTINF:-1 tvg-id="worldaquaticsopenwatersetubalworldcupstage4part2" tvg-name="Water Sport | World Aquatics Open Water. Setubal World Cup - Stage 4 (Part 2) (14:00)" tvg-logo="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/4773/images/jtgKjmJNThG3rBwRV1X3_pipe-band-drumming-snare-michael-eagle-rhythm-monster-pearl-kilt-online-lessons-world-championsihps.jpg" group-title="Eventi Live DLHD",Water Sport | World Aquatics Open Water. Setubal World Cup - Stage 4 (Part 2) (14:00)
 https://dlhd.pk/watch.php?id=882
 
