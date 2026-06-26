@@ -5874,7 +5874,11 @@
                 "event": "MLB : St. Louis Cardinals vs Arizona Diamondbacks",
                 "channels": [
                     {
-                        "channel_name": "MLB league pass (CH-16) } Fox Sports 3 Argentina",
+                        "channel_name": "MLB league pass",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Fox Sports 3 Argentina",
                         "channel_id": "789"
                     },
                     {
