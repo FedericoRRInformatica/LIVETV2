@@ -1,1 +1,67 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcupnorwayvsfrance" tvg-name="⚽ FIFA World Cup 2026 — 🇳🇴 Norway vs 🇫🇷 France Jun 26 🏆 | FIFA World Cup : Norway vs France (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Norway_vs_France.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇳🇴 Norway vs 🇫🇷 France Jun 26 🏆 | FIFA World Cup : Norway vs France (19:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupnorwayvsfrance" tvg-name="⚽ FIFA World Cup 2026 — 🇳🇴 Norway vs 🇫🇷 France Jun 26 🏆 | FIFA World Cup : Norway vs France (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Norway_vs_France.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇳🇴 Norway vs 🇫🇷 France Jun 26 🏆 | FIFA World Cup : Norway vs France (19:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupnorwayvsfrance" tvg-name="All Soccer Events | FIFA World Cup : Norway vs France (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Norway_vs_France.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Norway vs France (19:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupnorwayvsfrance" tvg-name="All Soccer Events | FIFA World Cup : Norway vs France (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Norway_vs_France.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Norway vs France (19:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupnorwayvsfrance" tvg-name="All Soccer Events | FIFA World Cup : Norway vs France (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Norway_vs_France.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Norway vs France (19:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fifaworldcupsenegalvsiraq" tvg-name="All Soccer Events | FIFA World Cup : Senegal vs Iraq (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Senegal_vs_Iraq.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Senegal vs Iraq (19:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://www1.minijuegosgratis.com/v3/games/thumbnails/213292_1.jpg" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://cdn.nba.com/manage/2024/06/16x9-homehero.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
+https://dlhd.pk/watch.php?id=576
+
+#EXTINF:-1 tvg-id="formula3msccruisesaustriangppractice" tvg-name="Motorsport | Formula 3 : MSC Cruises Austrian GP - Practice (08:00)" tvg-logo="https://www.2modern.com/cdn/shop/products/fourhands-aurora-swivel-chair_1000x.jpg?v=1679387755" group-title="Eventi Live DLHD",Motorsport | Formula 3 : MSC Cruises Austrian GP - Practice (08:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2msccruisesaustriangpfreepractice" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Free Practice (10:00)" tvg-logo="https://i.ebayimg.com/images/g/xk0AAOSw8WJe2Ckp/s-l400.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Free Practice (10:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="moto3round11netherlandspractice1" tvg-name="Motorsport | Moto3 : Round 11 | Netherlands Practice 1 (11:10)" tvg-logo="https://cdn.eso.org/images/screen/eso0932a.jpg" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 11 | Netherlands Practice 1 (11:10)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround11netherlandspractice1" tvg-name="Motorsport | MotoGP : Round 11 | Netherlands Practice 1 (11:15)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 11 | Netherlands Practice 1 (11:15)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula1msccruisesaustriangppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 1 (11:30)" tvg-logo="https://d.ibtimes.co.uk/en/full/1800860/nfl-insider-dianna-russini.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 1 (11:30)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="moto2round11netherlandspractice1" tvg-name="Motorsport | Moto2 : Round 11 | Netherlands Practice 1 (12:00)" tvg-logo="https://www.accesus.es/wp-content/uploads/2020/07/PAT-187-2_web-1.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 11 | Netherlands Practice 1 (12:00)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula3msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 3 : MSC Cruises Austrian GP - Qualifying (13:00)" tvg-logo="https://avatarfiles.alphacoders.com/375/thumb-1920-375772.gif" group-title="Eventi Live DLHD",Motorsport | Formula 3 : MSC Cruises Austrian GP - Qualifying (13:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Qualifying (13:45)" tvg-logo="https://i1.rgstatic.net/publication/2812647_Non-Axiomatic_Reasoning_System_Version_41/links/00b4952b2d8e8d3c93000000/largepreview.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Qualifying (13:45)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1msccruisesaustriangppractice2" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 2 (15:00)" tvg-logo="https://i.pinimg.com/originals/9c/5b/4c/9c5b4c90df2ec0630d01525ec4906ff7.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 2 (15:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="worldathleticscontinentaltourgold2026" tvg-name="Athletics | World Athletics Continental Tour Gold 2026 (16:00)" tvg-logo="https://i.ytimg.com/vi/VS2viLGF894/maxresdefault.jpg" group-title="Eventi Live DLHD",Athletics | World Athletics Continental Tour Gold 2026 (16:00)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italiantimetrial" tvg-name="Cycling | Italian Time Trial (11:15)" tvg-logo="https://www.practical-sailor.com/wp-content/uploads/2025/03/Picture1.png" group-title="Eventi Live DLHD",Cycling | Italian Time Trial (11:15)
+https://dlhd.pk/watch.php?id=882
+
+#EXTINF:-1 tvg-id="premierpadelvalladolidp2t2026mensquarterfinals2" tvg-name="Squash | Premier Padel Valladolid P2 (T2026): Men's Quarter-Finals 2 (17:15)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Squash | Premier Padel Valladolid P2 (T2026): Men's Quarter-Finals 2 (17:15)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="premierpadelvalladolidp2t2026mensquarterfinals3" tvg-name="Squash | Premier Padel Valladolid P2 (T2026): Men's Quarter-Finals 3 (20:00)" tvg-logo="https://cdn.donmai.us/sample/2f/cc/__jiro_kyoka_and_kaminari_denki_boku_no_hero_academia_drawn_by_kobaji__sample-2fccf176ca913def28a6cdc4bcdd6b19.jpg" group-title="Eventi Live DLHD",Squash | Premier Padel Valladolid P2 (T2026): Men's Quarter-Finals 3 (20:00)
+https://dlhd.pk/watch.php?id=461
+
