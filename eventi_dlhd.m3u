@@ -5,7 +5,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="fifaworldcupcroatiavsghana" tvg-name="All Soccer Events | FIFA World Cup : Croatia vs Ghana (21:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Croatia vs Ghana (21:00)
 https://dlhd.pk/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="fifaworldcuppanamavsengland" tvg-name="All Soccer Events | FIFA World Cup : Panama vs England (21:00)" tvg-logo="https://theanalyst.com/wp-content/uploads/2022/11/england-vs-usa-prediction-1024x576.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs England (21:00)
+#EXTINF:-1 tvg-id="fifaworldcuppanamavsengland" tvg-name="All Soccer Events | FIFA World Cup : Panama vs England (21:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_England.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs England (21:00)
 https://dlhd.pk/watch.php?id=3047
 
 #EXTINF:-1 tvg-id="fifaworldcupcongodrvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Congo DR vs Uzbekistan (23:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Congo DR_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Congo DR vs Uzbekistan (23:30)
@@ -14,45 +14,39 @@ https://dlhd.pk/watch.php?id=3047
 #EXTINF:-1 tvg-id="fifaworldcupcolombiavsportugal" tvg-name="All Soccer Events | FIFA World Cup : Colombia vs Portugal (23:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Colombia_vs_Portugal.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Colombia vs Portugal (23:30)
 https://dlhd.pk/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://png.pngtree.com/png-clipart/20250419/original/pngtree-3d-digital-artwork-of-a-happy-birthday-png-image_20858892.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/57d088b3ff7c5003ba7eb002/1551815866849-HXK45PM4SATE6KV6BG08/the-evolution-of-a-logo-google-joanne-klee-marketing-image-2019.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
-https://dlhd.pk/watch.php?id=576
-
 #EXTINF:-1 tvg-id="formula1msccruisesaustriangppractice3" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (10:30)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (10:30)
 https://dlhd.pk/watch.php?id=577
 
-#EXTINF:-1 tvg-id="moto3round11netherlandsqualifying" tvg-name="Motorsport | Moto3 : Round 11 | Netherlands Qualifying (10:45)" tvg-logo="https://www.vivian.com/cdn-cgi/image/w=250,q=100,f=auto,fit=scale-down,metadata=none/https://d2rzm9ueb9xn1f.cloudfront.net/facility-logos/the-hospitals-of-providence-sierra-campus----logo1648128349229.png?v=2023" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 11 | Netherlands Qualifying (10:45)
+#EXTINF:-1 tvg-id="moto3round11netherlandsqualifying" tvg-name="Motorsport | Moto3 : Round 11 | Netherlands Qualifying (10:45)" tvg-logo="https://storage.googleapis.com/generic-asset/avena-health-brand-min.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 11 | Netherlands Qualifying (10:45)
 https://dlhd.pk/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2round11netherlandsqualifying" tvg-name="Motorsport | Moto2 : Round 11 | Netherlands Qualifying (11:35)" tvg-logo="https://crazystevefireworks.com/wp-content/uploads/2024/06/Yellow-And-Black-Minimalist-Escalator-Safety-Tips-Sign-Poster-1086x1536.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 11 | Netherlands Qualifying (11:35)
+#EXTINF:-1 tvg-id="moto2round11netherlandsqualifying" tvg-name="Motorsport | Moto2 : Round 11 | Netherlands Qualifying (11:35)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 11 | Netherlands Qualifying (11:35)
 https://dlhd.pk/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintrace" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (12:15)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (12:15)
+#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintrace" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (12:15)" tvg-logo="https://u.realgeeks.media/northwesthomelistings/Everett_School_District_Boundary_Map.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (12:15)
 https://dlhd.pk/watch.php?id=577
 
 #EXTINF:-1 tvg-id="motogpround11netherlandssprintrace" tvg-name="Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (12:45)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (12:45)
 https://dlhd.pk/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula1msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (14:00)" tvg-logo="https://shop.cassiesmallwood.com/cdn/shop/files/2025MonthlyCalendarWithHolidays.png?v=1701280275" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (14:00)
+#EXTINF:-1 tvg-id="formula1msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (14:00)" tvg-logo="https://highlightsalongtheway.com/wp-content/uploads/2024/02/Hot-Wheels-Coloring-Pages_Page_1.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (14:00)
 https://dlhd.pk/watch.php?id=577
 
-#EXTINF:-1 tvg-id="rowinglucerneworldcup1stroundfinals" tvg-name="Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (10:30)" tvg-logo="https://www.lymedisease.org/wp-content/uploads/2022/07/bart-rash-1.png" group-title="Eventi Live DLHD",Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (10:30)
+#EXTINF:-1 tvg-id="rowinglucerneworldcup1stroundfinals" tvg-name="Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (10:30)" tvg-logo="https://i.pinimg.com/originals/bc/41/d7/bc41d721de37fc04a054b3bcc0f15709.jpg" group-title="Eventi Live DLHD",Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (10:30)
 https://dlhd.pk/watch.php?id=882
 
-#EXTINF:-1 tvg-id="canoeingdownhillworldcupmezzanafinals" tvg-name="Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (13:00)" tvg-logo="https://www.britishracecourses.org/wp-content/uploads/Kempton-Park-Racecourse-Guide.png" group-title="Eventi Live DLHD",Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (13:00)
+#EXTINF:-1 tvg-id="canoeingdownhillworldcupmezzanafinals" tvg-name="Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (13:00)" tvg-logo="https://myfamilytime.es/wp-content/uploads/2024/07/piscina-riosequilllo-en-buitrago-1024x576.png" group-title="Eventi Live DLHD",Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (13:00)
 https://dlhd.pk/watch.php?id=882
 
-#EXTINF:-1 tvg-id="spanishchampionshipsmassstartrace" tvg-name="Cycling | Spanish Championships mass start race (10:15)" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/3c/d1/e83cd126-4dab-1be0-05bd-b530539fcca9/7330178062290.png/1200x630bf-60.jpg" group-title="Eventi Live DLHD",Cycling | Spanish Championships mass start race (10:15)
+#EXTINF:-1 tvg-id="spanishchampionshipsmassstartrace" tvg-name="Cycling | Spanish Championships mass start race (10:15)" tvg-logo="https://basicallydogs.com/wp-content/uploads/2024/03/Road-trip-with-your-dog-the-comfortable-way.png" group-title="Eventi Live DLHD",Cycling | Spanish Championships mass start race (10:15)
 https://dlhd.pk/watch.php?id=878
 
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipselitewomensroadracelatourdupin1114km" tvg-name="Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (12:00)" tvg-logo="https://mrgcm.com/wp-content/uploads/2024/10/MF_IMG_31877_Resized-Main-Photo.jpg" group-title="Eventi Live DLHD",Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (12:00)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipselitewomensroadracelatourdupin1114km" tvg-name="Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (12:00)" tvg-logo="https://www.choosingtherapy.com/wp-content/uploads/2022/12/4-47.png" group-title="Eventi Live DLHD",Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (12:00)
 https://dlhd.pk/watch.php?id=878
 
-#EXTINF:-1 tvg-id="bmxracingsarrianseuropeanchampionshipseliteracemenwomen" tvg-name="Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (15:20)" tvg-logo="https://miro.medium.com/v2/resize:fit:784/1*wyu8sQveyjFpmLRxaLtFfw.png" group-title="Eventi Live DLHD",Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (15:20)
+#EXTINF:-1 tvg-id="bmxracingsarrianseuropeanchampionshipseliteracemenwomen" tvg-name="Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (15:20)" tvg-logo="https://www.heavyliftnews.com/wp-content/uploads/2023/07/0713-Strukton-and-MJvanRiel-3.jpeg" group-title="Eventi Live DLHD",Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (15:20)
 https://dlhd.pk/watch.php?id=878
 
-#EXTINF:-1 tvg-id="frenchtop14finalstadetoulousainvsmontpellierheraultrc" tvg-name="Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (19:00)" tvg-logo="https://medias.fcacanada.ca/specs/jeep/cherokeehev/year-2026/media/images/bento/2026-jeep-cherokee-hev-main-hero_b6e7799dbd92e8161b07233a310a46f8-2496x1248.png" group-title="Eventi Live DLHD",Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (19:00)
+#EXTINF:-1 tvg-id="frenchtop14finalstadetoulousainvsmontpellierheraultrc" tvg-name="Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (19:00)" tvg-logo="https://i.pinimg.com/originals/fb/e3/e2/fbe3e23d83ebf2c753fa3e25227a2f4e.png" group-title="Eventi Live DLHD",Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (19:00)
 https://dlhd.pk/watch.php?id=462
 
