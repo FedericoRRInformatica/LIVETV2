@@ -22,12 +22,66 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "\ud83c\udfc1 American Flat Track of Lima Half-Mile",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5076"
+                    }
+                ]
+            },
+            {
                 "time": "19:30",
-                "event": "\ud83c\udfc1 Thunder Road Harley-Davidson 200 at South Boston Speedway \ud83c\uddfa\ud83c\uddf8",
+                "event": "\ud83c\udfc1 Thunder Road Harley-Davidson 200 of South Boston Speedway \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "196"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5077"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc1 Lucas Oil Firecracker 100 vs Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5079"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc1 RallyX of Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5080"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfc1 USAC AMSOIL National Sprint Cars vs Butler Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5081"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 ISMA Supermodified Weekend of Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5082"
                     }
                 ]
             },
@@ -38,6 +92,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "197"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5074"
                     }
                 ]
             },
@@ -48,6 +106,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5083"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 Race of Champions Modifieds vs Evans Mills Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5084"
                     }
                 ]
             },
@@ -72,6 +144,16 @@
                 ]
             },
             {
+                "time": "22:55",
+                "event": "\ud83c\udfc1 IMCA Weekly Racing at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5085"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "\ud83e\udd4a PFI 19: The Return of the Masters \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -83,7 +165,7 @@
             },
             {
                 "time": "23:00",
-                "event": "\ud83e\udd4a XRUMBLE Fighting Championships XCB: \ud83c\uddfa\ud83c\uddf8 Keshon Bolden vs \ud83c\uddfa\ud83c\uddf8 Dave Calabro",
+                "event": "\ud83e\udd4a XRUMBLE Fighting Championships XCB: \ud83c\uddfa\ud83c\uddf8 Keshon Bolden of \ud83c\uddfa\ud83c\uddf8 Dave Calabro",
                 "channels": [
                     {
                         "channel_name": "TrillerTV",
@@ -122,6 +204,36 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "\ud83c\udfc1 IRA Sprints at I-55 Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5087"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "\ud83c\udfc1 NASCAR Sportsman 100 at Bowman Gray Stadium",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5088"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 USAC Avanti Western States Midgets at Merced Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5089"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\ud83e\udd4b Fight to Win 319 \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -142,6 +254,26 @@
                 ]
             },
             {
+                "time": "00:15",
+                "event": "\ud83c\udfc1 High Limit Racing at Big Sky Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5090"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfc1 CARS Tour West at Evergreen Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5091"
+                    }
+                ]
+            },
+            {
                 "time": "02:00",
                 "event": "\ud83e\udd4a MMA Mexico 8: Coraz\u00f3n Guerrero \ud83c\uddf2\ud83c\uddfd",
                 "channels": [
@@ -158,6 +290,16 @@
                     {
                         "channel_name": "TrillerTV",
                         "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83e\udd3c GCW: Amerikaz Most Wanted 2026 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "210"
                     }
                 ]
             }
@@ -2201,23 +2343,27 @@
                     },
                     {
                         "channel_name": "Backup Stream (FS1)",
-                        "channel_id": "5065"
-                    },
-                    {
-                        "channel_name": "Backup Stream (FS1 4K)",
                         "channel_id": "5066"
                     },
                     {
-                        "channel_name": "Backup Stream (NBC UNIVERSO 4K)",
+                        "channel_name": "Backup Stream (FS1 4K)",
                         "channel_id": "5067"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max Arabic)",
+                        "channel_name": "Backup Stream (NBC UNIVERSO)",
                         "channel_id": "5068"
                     },
                     {
-                        "channel_name": "Backup Stream (FusballTV2)",
+                        "channel_name": "Backup Stream (TSN2)",
                         "channel_id": "5069"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein MAX 2 Arabic )",
+                        "channel_id": "5070"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fussballtv2)",
+                        "channel_id": "5071"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2582,16 +2728,20 @@
                         "channel_id": "5061"
                     },
                     {
-                        "channel_name": "Backup Stream (Spanish 4K)",
+                        "channel_name": "Backup Stream (Telemundo)",
                         "channel_id": "5062"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max AR)",
+                        "channel_name": "Backup Stream (TSN1)",
                         "channel_id": "5063"
                     },
                     {
-                        "channel_name": "(Fusball TV 1)",
+                        "channel_name": "(Bein Max Arabic)",
                         "channel_id": "5064"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FusballTV1)",
+                        "channel_id": "5065"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -6496,6 +6646,10 @@
                     {
                         "channel_name": "Ziggo Sport 2 NL",
                         "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5078"
                     }
                 ]
             },
@@ -6530,6 +6684,10 @@
                     {
                         "channel_name": "TVA Sports 2",
                         "channel_id": "834"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5086"
                     }
                 ]
             },
@@ -6566,6 +6724,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5075"
                     }
                 ]
             },
@@ -6616,6 +6778,10 @@
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5073"
                     }
                 ]
             },
@@ -6786,6 +6952,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "3006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5072"
                     }
                 ]
             }
@@ -6796,8 +6966,20 @@
                 "event": "Countdown to Night of Champions 2026 Live",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "212"
+                    },
+                    {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5092"
                     }
                 ]
             },
@@ -6805,6 +6987,14 @@
                 "time": "17:00",
                 "event": "WWE Night of Champions Live",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "212"
+                    },
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
