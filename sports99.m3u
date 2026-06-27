@@ -1,31 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 21:00 - FIFA World Cup - Croatia vs Ghana (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Robot.Chicken.-.S08E03.-.Zeb.and.Kevin.Erotic.Hot.Tub.Canvas" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (Robot Chicken - S08E03 - Zeb and Kevin Erotic Hot Tub Canvas)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Robot%20Chicken%20-%20S08E03%20-%20Zeb%20and%20Kevin%20Erotic%20Hot%20Tub%20Canvas&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 19:00 - FIFA World Cup - South Africa vs Canada (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 19:00 - FIFA World Cup - South Africa vs Canada (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-06-30 01:40 - MLB - Arizona Diamondbacks vs San Francisco Giants (MLB Network Strike Zone HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-01 01:40 - MLB - Seattle Mariners vs Los Angeles Angels (MLB Network Strike Zone HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-26 10:30 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-26 18:00 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-26 21:00 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-27 10:30 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-27 15:00 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-06-27 20:00 - Golf -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=streamsports99&plan=vip
