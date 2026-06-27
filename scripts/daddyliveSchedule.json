@@ -4838,86 +4838,108 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe ATP - Singles : Eastbourne (United Kingdom), Grass": [
+        "Wimbledon Preview Show / WTA Bad Homburg / ATP Mallorca / WTA Eastbourne / ATP Eastbourne": [
             {
-                "time": "13:30",
-                "event": "ATP - Singles : \ud83c\udde7\ud83c\uddea Zizou Bergs vs \ud83c\uddeb\ud83c\uddf7 Ugo Humbert",
+                "time": "09:10",
+                "event": "WTA Bad Homburg: \ud83c\udde8\ud83c\uddff Karol\u00edna Muchov\u00e1 vs \ud83c\uddef\ud83c\uddf5 Naomi Osaka",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles : Mallorca (Spain), Grass": [
-            {
-                "time": "13:00",
-                "event": "ATP - Singles : \ud83c\uddfa\ud83c\uddf8 Ethan Quinn vs \ud83c\uddea\ud83c\uddf8 Alejandro Davidovich Fokina",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "108"
                     }
                 ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles : Bad Homburg (Germany), Grass": [
-            {
-                "time": "09:00",
-                "event": "WTA - Singles : \ud83c\udde8\ud83c\uddff Karolina Muchova vs \ud83c\uddef\ud83c\uddf5 Naomi Osaka",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles : Eastbourne (United Kingdom), Grass": [
-            {
-                "time": "11:00",
-                "event": "WTA - Singles : \ud83c\udde9\ud83c\uddea Tatjana Maria vs \ud83c\uddfa\ud83c\uddf8 Madison Keys",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - DOUBLES: Mallorca (Spain), Grass": [
+            },
             {
                 "time": "10:00",
-                "event": "ATP - Doubles : \ud83c\uddf8\ud83c\uddea Andr\u00e9 G\u00f6ransson / \ud83c\uddfa\ud83c\uddf8 Evan King vs \ud83c\uddeb\ud83c\uddf7 Th\u00e9o Arribag\u00e9 / \ud83c\uddeb\ud83c\uddf7 Albano Olivetti",
+                "event": "ATP Mallorca (Doubles): \ud83c\uddf8\ud83c\uddea Andr\u00e9 G\u00f6ransson/\ud83c\uddfa\ud83c\uddf8 Evan King vs \ud83c\uddeb\ud83c\uddf7 Th\u00e9o Arribag\u00e9/\ud83c\uddeb\ud83c\uddf7 Albano Olivetti",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
                     }
                 ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - DOUBLES: Bad Homburg (Germany), Grass": [
+            },
             {
                 "time": "10:30",
-                "event": "WTA - Doubles : \ud83c\uddee\ud83c\udde9 Aldila Sutjiadi / \ud83c\uddf7\ud83c\uddfa Vera Zvonareva vs \ud83c\udde6\ud83c\uddfa Ellen Perez / \ud83c\uddf3\ud83c\uddf1 Demi Schuurs",
+                "event": "WTA Bad Homburg (Doubles): \ud83c\uddf7\ud83c\uddfa Vera Zvonareva/\ud83c\uddee\ud83c\udde9 Aldila Sutjiadi vs \ud83c\uddf3\ud83c\uddf1 Demi Schuurs/\ud83c\udde6\ud83c\uddfa Ellen Perez",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "109"
                     }
                 ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - DOUBLES: Eastbourne (United Kingdom), Grass": [
+            },
             {
-                "time": "15:00",
-                "event": "WTA - Doubles : \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde7\ud83c\uddf7 Luisa Stefani vs \ud83c\udde8\ud83c\uddff Jesika Male\u010dkov\u00e1 / \ud83c\udde8\ud83c\uddff Kate\u0159ina Skoch",
+                "time": "11:00",
+                "event": "WTA Eastbourne: \ud83c\udde9\ud83c\uddea Tatjana Maria vs \ud83c\uddfa\ud83c\uddf8 Madison Keys",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP Mallorca: \ud83c\uddfa\ud83c\uddf8 Ethan Quinn vs \ud83c\uddea\ud83c\uddf8 Alejandro Davidovich Fokina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP Eastbourne: \ud83c\udde7\ud83c\uddea Zizou Bergs vs \ud83c\uddeb\ud83c\uddf7 Ugo Humbert",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA Eastbourne (Doubles): \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski/\ud83c\udde7\ud83c\uddf7 Luisa Stefani vs \ud83c\udde8\ud83c\uddff Jesika Male\u010dkov\u00e1/\ud83c\udde8\ud83c\uddff Miriam \u0160koch",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "15:50",
+                "event": "Wimbledon Preview Show",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "155"
                     }
                 ]
             }
