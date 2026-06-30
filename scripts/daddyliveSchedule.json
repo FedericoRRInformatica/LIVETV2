@@ -2938,6 +2938,14 @@
                         "channel_id": "462"
                     },
                     {
+                        "channel_name": "Eurosport 1 NL",
+                        "channel_id": "233"
+                    },
+                    {
+                        "channel_name": "Eurosport 2 NL",
+                        "channel_id": "234"
+                    },
+                    {
                         "channel_name": "Sky Sport Uno IT",
                         "channel_id": "461"
                     },
@@ -3296,6 +3304,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -3460,6 +3472,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1583"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1518"
                     }
                 ]
             },
@@ -3498,6 +3514,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1586"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
@@ -3508,6 +3528,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1587"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -3518,6 +3542,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1588"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -3528,6 +3556,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1589"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -3538,6 +3570,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1590"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -3688,6 +3724,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1601"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1518"
                     }
                 ]
             },
@@ -3698,6 +3738,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1602"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1502"
                     }
                 ]
             },
@@ -3708,6 +3752,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1603"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -3718,6 +3766,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1604"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -3728,6 +3780,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1605"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1516"
                     }
                 ]
             },
@@ -3738,6 +3794,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1606"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -3748,6 +3808,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1607"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
@@ -3758,6 +3822,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1608"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -3870,6 +3938,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe 2026 Wimbledon Highlight Show",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1617"
                     }
                 ]
             }
