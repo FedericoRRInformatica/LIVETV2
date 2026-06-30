@@ -1,5 +1,27 @@
 {
     "Monday 29th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:15",
+                "event": "Camden Speedway DIRTVISION",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Summer Shootout at Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "03:30",
