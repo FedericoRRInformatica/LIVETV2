@@ -1,9 +1,7 @@
 name: Sports99 & Streamed
 
 on:
-  schedule:
-   
-  workflow_dispatch:
+ workflow_dispatch:
 
 jobs:
   download-m3u:
